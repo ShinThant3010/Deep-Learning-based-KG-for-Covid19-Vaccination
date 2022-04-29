@@ -1,1 +1,1 @@
-# Deep-Learning-based-KG-for-Covid19-Vaccination
+# Deep-Learning-based-KG-Construction-for-Covid19-Vaccination
