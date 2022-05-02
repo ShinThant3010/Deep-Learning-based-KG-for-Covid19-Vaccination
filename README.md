@@ -1,6 +1,8 @@
 # Deep-Learning-based-KG-Construction-for-Covid19-Vaccination
 
-Master's Research work and NII Internship Research supervised by Dr. Chutiporn Anutariya and Prof. Frederic Andreas. This is an ongoing research. 
+Master's Research work and NII Internship Research supervised by Dr. Chutiporn Anutariya (Asian Institute of Technology, Thailand) and Prof. Frederic Andreas (National Institute of Informatics, Japan). 
+
+(This is an ongoing research study.)
 
 ## Project Description:
 The research is about construction of content-based knowledge graph using the up-to-date vaccine specific literatures from the CORD-19 dataset.
