@@ -1,8 +1,6 @@
 # Deep-Learning-based-KG-Construction-for-Covid19-Vaccination
 
-Master's Research work and NII Internship Research supervised by Dr. Chutiporn Anutariya (Asian Institute of Technology, Thailand) and Prof. Frederic Andreas (National Institute of Informatics, Japan). 
-
-(This is an ongoing research study.)
+Master's Research work and NII Internship Research supervised by Dr. Chutiporn Anutariya (Asian Institute of Technology, Thailand), Prof. Frederic Andreas (National Institute of Informatics, Japan), and Dr. Teeradaj Racharak (Japan Advanced Institute of Science and Technology (JAIST)).
 
 ### Project Description
 The research is about construction of content-based knowledge graph using the up-to-date vaccine specific literatures from the CORD-19 dataset.
@@ -17,4 +15,3 @@ The research is about construction of content-based knowledge graph using the up
 - Relation Extraction: Verb Phrase Extraction
 - Relation Clustering: Synset Grouping
 - Triple Construction: using extracted entities and relations
-- Triple Completion (KG Embedding): Multilayer Perceptron (MLP)
