@@ -8,11 +8,11 @@
 ### 2. Balanced NER Dataset
 - Select 25 entity types. 
 - Balance the dataset making the entity count of each type to be in the range (2000, 20000).
-- # of sentences in balanced dataset = 43,432
+- number of sentences in balanced dataset = 43,432
 
 ### 3. NER-BERT
 - Fine-tuned DistilBERT using NER dataset using SimpleTransformer and sklearn. 
-- # of epoches = 30
+- number of epoches = 30
 - Precision = 0.7494, Recall = 0.7366, F1-score = 0.7429
 
 ### 4. NER-Topic4
