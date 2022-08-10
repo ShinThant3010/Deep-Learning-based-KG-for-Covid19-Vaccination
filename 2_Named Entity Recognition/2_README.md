@@ -8,8 +8,9 @@ Add word_id to each entity <i> (2.3) </i>.
 3) Merge result from full sentence (1) and ner data (2). 
 
 ### 2. Balanced NER Dataset
-
+- Select 25 entity types. Balance the dataset making the entity count of each type to be in the range (2000, 20000).
 
 ### 3. NER-BERT
+- Fine-tuned DistilBERT using NER dataset.
 
 ### 4. NER-Topic4
