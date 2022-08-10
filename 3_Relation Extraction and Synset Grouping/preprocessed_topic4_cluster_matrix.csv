@@ -1,0 +1,2419 @@
+,cluster_id,cluster_title,verb_list,actual_data_list,member_lemma
+0,0,abandon,['give_up' 'vacate' 'abandon' 'forsake' 'desert' 'empty' 'desolate'],[['abandon' '4']],['abandon']
+1,1,abate,['let_up' 'slake' 'die_away' 'slack' 'slack_off' 'abate'],[['abate' '3']],['abate']
+2,2,contract,"['get' 'urge_on' 'peg_down' 'subscribe' 'determine' 'urge' 'limit' 'cut'
+ 'specialize' 'iron_out' 'delimit' 'concentrate' 'exhort' 'castrate'
+ 'abridge' 'advertize' 'sign' 'stipulate' 'bless' 'shorten' 'compress'
+ 'advertise' 'qualify' 'conjure' 'set_apart' 'signal' 'condition' 'intend'
+ 'narrow' 'crowd' 'condense' 'agitate' 'weightlift' 'shrink' 'constringe'
+ 'press_out' 'abbreviate' 'weight-lift' 'labor' 'bowdlerise' 'signalise'
+ 'campaign' 'fight' 'undertake' 'contract' 'iron' 'constrict' 'force'
+ 'sign_up' 'entreat' 'assign' 'press' 'expurgate' 'drive' 'bid' 'adjure'
+ 'weigh' 'speciate' 'squeeze' 'particularize' 'compact' 'bowdlerize'
+ 'nail_down' 'reduce' 'specify' 'labour' 'foreshorten' 'delimitate'
+ 'pin_down' 'fix' 'delineate' 'specialise' 'signalize' 'crusade' 'sign_on'
+ 'differentiate' 'ratify' 'narrow_down' 'take' 'define' 'push' 'destine'
+ 'designate' 'bear_on' 'set' 'tug' 'promote' 'beseech' 'particularise']","[['abbreviate' '1']
+ ['abridge' '6']
+ ['contract' '55']
+ ['narrow' '3']
+ ['press' '9']
+ ['push' '2']
+ ['shorten' '13']
+ ['sign' '14']
+ ['specialise' '2']
+ ['specialize' '2']
+ ['specify' '32']]","['abbreviate' 'abridge' 'contract' 'narrow' 'press' 'push' 'shorten'
+ 'sign' 'specialise' 'specialize' 'specify']"
+3,3,induce,"['furnish' 'get' 'substantiate' 'weather' 'verbalise' 'position' 'put_out'
+ 'puzzle' 'air' 'get_off' 'arrive' 'baby-sit' 'consume' 'let' 'take_on'
+ 'purpose' 'sit_down' 'intimate' 'look' 'fend_for' 'protract' 'ravish'
+ 'channel' 'hold_fast' 'draw_off' 'hand_over' 'bind' 'extend' 'ask'
+ 'abide' 'pay_off' 'film' 'engender' 'submit' 'let_out' 'evince' 'lam'
+ 'move' 'bow_out' 'nonplus' 'stand_for' 'begin' 'lodge' 'compensate'
+ 'live_on' 'hasten' 'course' 'remain' 'give_back' 'present' 'keep'
+ 'seclude' 'evoke' 'untangle' 'get_down' 'bide' 'precede' 'swallow'
+ 'prolong' 'map' 'pass_on' 'race' 'cohere' 'campaign' 'generate' 'nurture'
+ 'wedge' 'declare_oneself' 'sit' 'do' 'perplex' 'sequester' 'turn_tail'
+ 'pull_round' 'patronise' 'necessitate' 'give' 'convey' 'dominate' 'quell'
+ 'crawfish_out' 'outlast' 'devolve' 'transfer' 'raise' 'head' 'impart'
+ 'dwell' 'claim' 'reconcile' 'be' 'represent' 'bring_back' 'draw_back'
+ 'demonstrate' 'play' 'appease' 'detain' 'engage' 'vex'
+ '""pull_in_ones_horns""' 'be_given' 'sustain' 'rush' 'fix' 'accept'
+ 'strain' 'expect' 'run' 'unpick' 'operate' 'start' 'hightail_it'
+ 'fork_up' 'beget' 'amaze' 'offer_up' 'defend' 'lose' 'reach_out' 'state'
+ 'adjourn' 'set' 'melt' 'rein' 'turn_out' 'allow' 'hold_off' 'lay_out'
+ 'project' 'stage' 'purport' 'accede' 'ante_up' 'resist' 'enrapture'
+ 'hang_in' 'subscribe' 'retire' 'comport' 'induct' 'give_birth' 'lean'
+ 'waitress' 'cause' 'occupy' 'correspond' 'stupefy' 'birth' 'redeem'
+ 'fetch' 'study' 'brand' 'acquaint' 'hark_back' 'commit' 'pull_through'
+ 'widen' 'carry_on' 'move_back' 'hunt_down' 'stay_on' 'rule' 'channelise'
+ 'guide' 'take_away' 'decree' 'support' 'last_out' 'catch' 'suffer'
+ 'consort' 'know' 'backpack' 'produce' 'ingest' 'bring' 'jam'
+ 'institutionalise' 'obtain' 'fall' 'capture' 'hunt' 'place_upright'
+ 'deal' 'stick_by' 'involve' 'paint_a_picture' 'hint' 'open' 'exsert'
+ 'predominate' 'indicate' 'drive_home' 'pick_out' 'call_back' 'post'
+ 'set_about' 'baffle' 'render' 'run_away' 'offer' 'call_for' 'subsist'
+ 'mail' 'transport' 'hold_up' 'affirm' 'cede' 'unscramble' 'bring_about'
+ 'suggest' 'stand' 'place' 'stimulate' 'go' 'enthrall' 'die_hard'
+ 'fly_the_coop' 'become' 'deposit' 'stick_to' 'tamp_down' 'model' 'wad'
+ 'acquire' 'rest' 'make_up' 'meet' 'grow' 'spread' 'ravel_out' 'ravel'
+ 'cleave' 'hold_on' 'symbolise' 'conduce' 'take_to_the_woods' 'fuck_off'
+ 'range' 'bunk' 'yield' 'father' 'gestate' 'inhabit' 'underpin' 'commence'
+ 'pose' 'comprise' 'exemplify' 'unfold' 'subscribe_to' 'assume' 'take'
+ 'portray' 'ply' 'scat' 'give_tongue_to' 'stockpile' 'brave_out' 'make'
+ 'mystify' 'tend' 'sit_around' 'moderate' 'hang_on' 'refund' 'flummox'
+ 'expand' 'create' 'strike' 'maintain' 'acquit' 'result' 'ensue'
+ 'pop_the_question' 'dumbfound' 'mother' 'stomach' 'send_off' 'riposte'
+ 'exhibit' 'arrest' 'come_back' 'nominate' 'stay_put' 'pack' 'buzz_off'
+ 'function' 'fork_over' 'take_up' 'lease' 'patronize' 'draw_out'
+ 'pull_away' 'salute' 'posture' 'blossom_out' 'give_in' 'hold' 'charge'
+ 'enthral' 'govern' 'retort' 'stick' 'stretch' 'recall' 'melt_down'
+ 'give_rise' 'unravel' 'incur' 'outlive' 'unsay' 'hurt' 'plump_for'
+ 'remain_firm' 'picture' 'disengage' 'await' 'delay' 'take_in' 'lay'
+ 'channelize' 'flow' 'lead' 'adhere' 'come' 'demo' 'hold_out' 'put_in'
+ 'unknot' 'press_out' 'pull_back' 'embark' 'direct' 'prevail' 'revert'
+ 'last' 'stock' 'advise' 'exist' 'institutionalize' 'stick_around'
+ 'take_back' 'retreat' 'try' 'persevere' 'bleed' 'tell' 'come_through'
+ 'rejoin' 'pay' 'farm' 'personate' 'persist' 'stick_out' 'verbalize'
+ 'provide' 'supply' 'drive' 'live' 'enchant' 'crawfish' 'impersonate'
+ 'run_for' 'depict' 'tolerate' 'save' 'take_out' 'exact' 'extradite'
+ 'constitute' 'escape' 'gift' 'need' 'hire' 'spread_out' 'reelect' 'show'
+ 'head_for_the_hills' 'broaden' 'subject' 'sway' 'give_up' 'set_out'
+ 'take_aim' 'mob' 'start_out' 'volunteer' 'corroborate' 'put' 'regress'
+ 'withdraw' 'put_up' 'look_at' 'translate' 'leave' 'back_out' 'aim'
+ 'dribble' 'back' 'blossom' 'stay' 'poke_out' 'propose' 'feed' 'posit'
+ 'develop' 'ladder' 'chair' 'bewilder' 'endure' 'execute' 'pass'
+ 'back_away' 'stretch_out' 'ride' 'beat' 'indorse' 'digest' 'ship'
+ 'resign' 'transmit' 'hold_back' 'populate' 'throng' 'select' 'surrender'
+ 'shoot' 'proffer' 'turn_back' 'pile' 'sting' 'deliver' 'back_up'
+ 'consider' 'repay' 'survive' 'scram' 'ride_out' 'face' 'make_it'
+ 'contain' 'bow' 'retrovert' 'pitch' 'tender' 'devote' 'demand' 'learn'
+ 'work' 'permit' 'pay_up' 'bear' 'anticipate' 'wait' 'choose' 'fill'
+ 'send' 'stand_by' 'stretch_forth' 'turn_in' 'bugger_off' 'station'
+ 'interpret' 'get_hold_of' 'find' 'delight' 'beam' 'plunk_for' 'read'
+ '""get_under_ones_skin""' 'recede' 'incline' 'extract' 'award' 'outride'
+ 'utter' 'nourish' 'stand_up' 'deport' 'stake' 'experience' 'rescue'
+ 'brook' 'wear' 'require' 'contract' 'say' 'keep_going' 'charter'
+ 'continue' 'send_out' 'put_forward' 'load_down' 'train' 'symbolize'
+ 'postulate' 'defer' 'black_market' 'reign' 'take_over' 'act' 'bid'
+ 'bring_forth' 'track_down' 'behave' 'return' 'rent' 'sire' 'confront'
+ 'harness' 'communicate' 'typify' 'bundle' 'seat' 'cover' 'pay_back'
+ 'carry' 'keep_up' 'bond' 'compact' 'introduce' 'express' 'call_in' 'draw'
+ 'relegate' 'bring_on' 'have_a_bun_in_the_oven' 'use_up' 'induce'
+ 'scarper' 'fork_out' 'patronage' 'triumph' 'contribute' 'fend' 'persuade'
+ 'gravel' 'ache' 'broadcast' 'bring_out' 'bear_out' 'remove' 'cling'
+ 'break_away' 'tamp' 'brave' 'conduct' 'have' 'endorse' 'sequestrate'
+ 'blossom_forth' 'adopt' 'gallop' 'receive' 'admit' 'confirm' 'top']","[['abide' '1']
+ ['bear' '79']
+ ['behave' '2']
+ ['birth' '2']
+ ['carry' '177']
+ ['conduct' '692']
+ ['convey' '5']
+ ['deliver' '74']
+ ['endure' '3']
+ ['expect' '202']
+ ['express' '213']
+ ['extend' '92']
+ ['get' '68']
+ ['incur' '4']
+ ['induce' '1439']
+ ['last' '128']
+ ['lead' '455']
+ ['live' '272']
+ ['obtain' '410']
+ ['offer' '209']
+ ['pack' '1']
+ ['pay' '30']
+ ['persist' '169']
+ ['persuade' '2']
+ ['populate' '2']
+ ['pose' '55']
+ ['post' '15']
+ ['present' '568']
+ ['prevail' '8']
+ ['produce' '332']
+ ['proffer' '1']
+ ['prolong' '73']
+ ['propose' '102']
+ ['protract' '3']
+ ['purport' '2']
+ ['puzzle' '1']
+ ['remain' '951']
+ ['render' '10']
+ ['represent' '259']
+ ['rescue' '2']
+ ['result' '515']
+ ['return' '65']
+ ['revert' '4']
+ ['rule' '6']
+ ['run' '29']
+ ['send' '29']
+ ['ship' '1']
+ ['sit' '19']
+ ['stand' '9']
+ ['state' '14']
+ ['station' '1']
+ ['stay' '67']
+ ['stick' '2']
+ ['submit' '31']
+ ['suffer' '120']
+ ['suggest' '1188']
+ ['support' '234']
+ ['surrender' '1']
+ ['survive' '37']
+ ['sustain' '87']
+ ['take' '359']
+ ['tend' '63']
+ ['tolerate' '213']
+ ['transmit' '46']
+ ['transport' '1']
+ ['underpin' '8']
+ ['unfold' '6']
+ ['unravel' '3']
+ ['volunteer' '5']
+ ['wait' '25']
+ ['weather' '1']
+ ['widen' '2']
+ ['withdraw' '9']]","['abide' 'bear' 'behave' 'birth' 'carry' 'conduct' 'convey' 'deliver'
+ 'endure' 'expect' 'express' 'extend' 'get' 'incur' 'induce' 'last' 'lead'
+ 'live' 'obtain' 'offer' 'pack' 'pay' 'persist' 'persuade' 'populate'
+ 'pose' 'post' 'present' 'prevail' 'produce' 'proffer' 'prolong' 'propose'
+ 'protract' 'purport' 'puzzle' 'remain' 'render' 'represent' 'rescue'
+ 'result' 'return' 'revert' 'rule' 'run' 'send' 'ship' 'sit' 'stand'
+ 'state' 'station' 'stay' 'stick' 'submit' 'suffer' 'suggest' 'support'
+ 'surrender' 'survive' 'sustain' 'take' 'tend' 'tolerate' 'transmit'
+ 'transport' 'underpin' 'unfold' 'unravel' 'volunteer' 'wait' 'weather'
+ 'widen' 'withdraw']"
+4,4,ablate,['ablate'],[['ablate' '1']],['ablate']
+5,5,abolish,['abolish' 'get_rid_of'],[['abolish' '7']],['abolish']
+6,6,abort,['abort'],[['abort' '2']],['abort']
+7,7,abrogate,['abrogate'],[['abrogate' '11']],['abrogate']
+8,8,reverse,"['filch' 'get_up' 'wind' 'annul' 'turn_back' 'hook' 'come_up' 'plagiarise'
+ 'purloin' 'rear' 'snarf' 'vacate' 'overrule' 'sneak' 'override' 'lift'
+ 'countermand' 'uprise' 'swipe' 'rise' 'move_up' 'pilfer' 'raise'
+ 'plagiarize' 'change_by_reversal' 'pinch' 'arise' 'revoke' 'cabbage'
+ 'bring_up' 'nobble' 'overthrow' 'overturn' 'reverse' 'go_up' 'abstract'
+ 'repeal' 'invert' 'hoist' 'airlift' 'turn' 'rustle' 'face-lift' 'rescind'
+ 'elevate']","[['abstract' '8']
+ ['lift' '1']
+ ['reverse' '30']]",['abstract' 'lift' 'reverse']
+9,9,accelerate,['quicken' 'speed_up' 'accelerate' 'speed'],[['accelerate' '66']],['accelerate']
+10,10,emphasize,"['accentuate' 'try' 'punctuate' 'emphasise' 'stress' 'accent' 'strain'
+ 'underscore' 'underline' 'emphasize']","[['accentuate' '2']
+ ['emphasise' '4']
+ ['emphasize' '43']
+ ['stress' '3']
+ ['underline' '7']
+ ['underscore' '20']]",['accentuate' 'emphasise' 'emphasize' 'stress' 'underline' 'underscore']
+11,11,include,"['get' 'arrest' 'acknowledge' 'becharm' 'overtake' 'fag_out' 'eat_up'
+ 'set_aside' 'catch_up_with' 'grant' 'watch' 'let' 'go_for' 'allow_in'
+ 'take_up' 'lease' 'take_on' 'let_in' 'fascinate' 'seize' 'fatigue' 'hold'
+ 'wear_down' 'captivate' 'beguile' 'take_hold_of' 'catch' 'permit' 'bear'
+ 'presume' 'hitch' 'unsay' 'usurp' 'overhear' 'take_into_account'
+ 'take_for_granted' 'capture' 'tire_out' 'take_in' 'weary' 'appropriate'
+ 'tire' 'entrance' 'hold_out' 'bewitch' 'swallow_up' 'wear_thin' 'feign'
+ 'get_down' 'swallow' 'take_back' 'charm' 'wear' 'sham' 'book' 'trip_up'
+ 'break' 'provide' 'reserve' 'model' 'take_over' 'enchant' 'acquire'
+ 'immerse' 'consent' 'rent' 'have_on' 'accommodate' 'tolerate' 'jade'
+ 'simulate' 'don' 'put_on' 'imitate' 'give_up' 'copy' 'grab' 'countenance'
+ 'live_with' 'accept' 'wear_off' 'allow_for' 'withdraw' 'make_bold' 'bury'
+ 'conquer' 'pick_up' 'dare' 'bust' 'intromit' 'wear_out' 'fall_apart'
+ 'leave' 'trance' 'assume' 'take' 'outwear' 'include' 'have' 'fag'
+ 'get_into' 'enamour' 'wear_upon' 'earmark' 'endure' 'adopt' 'view'
+ 'strike' 'enamor' 'allow' 'arrogate' 'see' 'admit']","[['accept' '25']
+ ['admit' '330']
+ ['allow' '199']
+ ['appropriate' '8']
+ ['assume' '52']
+ ['capture' '55']
+ ['catch' '3']
+ ['consent' '20']
+ ['include' '3097']
+ ['let' '4']
+ ['permit' '15']
+ ['presume' '20']
+ ['reserve' '66']
+ ['simulate' '9']
+ ['swallow' '1']
+ ['wear' '32']]","['accept' 'admit' 'allow' 'appropriate' 'assume' 'capture' 'catch'
+ 'consent' 'include' 'let' 'permit' 'presume' 'reserve' 'simulate'
+ 'swallow' 'wear']"
+12,12,access,['access' 'get_at'],[['access' '13']],['access']
+13,13,adjust,"['range' 'correct' 'line_up' 'array' 'fit' 'ordinate' 'beseem' 'lodge'
+ 'organize' 'befit' 'become' 'coordinate' 'align' 'conform' 'aline'
+ 'accommodate' 'adjust' 'oblige' 'reconcile' 'adapt' 'organise' 'suit'
+ 'hold' 'set' 'conciliate' 'admit' 'lay_out' 'set_out']","[['accommodate' '2']
+ ['adapt' '37']
+ ['adjust' '617']
+ ['align' '7']
+ ['array' '1']
+ ['conform' '1']
+ ['coordinate' '13']
+ ['suit' '7']]","['accommodate' 'adapt' 'adjust' 'align' 'array' 'conform' 'coordinate'
+ 'suit']"
+14,14,follow,"['keep_company' 'observe' 'come_through' 'follow' 'comply' 'espouse'
+ 'company' 'deliver_the_goods' 'review' 'survey' 'postdate' 'go_over'
+ 'stick_to' 'watch' 'pursue' 'fall_out' 'keep_abreast' 'come' 'attach_to'
+ 'win' 'succeed' 'travel_along' 'conform_to' 'surveil' 'be' 'go_with'
+ 'come_with' 'keep_up' 'bring_home_the_bacon' 'adopt' 'take_after'
+ 'appraise' 'accompany' 'keep_an_eye_on' 'trace' 'companion' 'play_along'
+ 'abide_by' 'stick_with' 'watch_over' 'come_after']","[['accompany' '39']
+ ['follow' '2663']
+ ['succeed' '3']
+ ['survey' '17']]",['accompany' 'follow' 'succeed' 'survey']
+15,15,perform,"['mint' 'do' 'achieve' 'collide_with' 'move' 'reach' 'light_upon'
+ 'come_upon' 'fill' 'put_to_death' 'discover' 'run' 'happen_upon'
+ 'strickle' 'carry_out' 'fall' 'live_up_to' 'fulfill' 'come_across'
+ 'chance_on' 'impinge_on' 'shine' 'excise' 'assume' 'walk_out' 'expunge'
+ 'affect' 'carry_through' 'arrive_at' 'take' 'take_up' 'come_to' 'perform'
+ 'hit' 'make' 'accomplish' 'coin' 'meet' 'gain' 'fulfil' 'execute'
+ 'strike' 'scratch' 'satisfy' 'fall_upon' 'run_into' 'action'
+ 'chance_upon' 'impress' 'attain']","[['accomplish' '1']
+ ['achieve' '281']
+ ['attain' '11']
+ ['execute' '7']
+ ['fulfil' '19']
+ ['perform' '836']
+ ['strike' '8']]",['accomplish' 'achieve' 'attain' 'execute' 'fulfil' 'perform' 'strike']
+16,16,match,"['submit' 'coincide' 'resign' 'consort' 'cede' 'check' 'yield' 'concord'
+ 'pit' 'fit_in' 'equalize' 'tally' 'twin' 'play_off' 'fit' 'stand_for'
+ 'give' 'go' 'couple' 'allot' 'grant' 'chord' 'deed_over' 'mate'
+ 'correspond' 'duplicate' 'equate' 'jibe' 'agree' 'accommodate'
+ 'conform_to' 'make_up' 'outfit' 'concede' 'reconcile' 'pair' 'touch'
+ 'concur' 'meet' 'settle' 'represent' 'gibe' 'match' 'suit' 'hold' 'award'
+ 'parallel' 'equip' 'accord' 'oppose' 'harmonise' 'rival' 'patch_up'
+ 'conciliate' 'fit_out' 'allow' 'equal' 'equalise' 'cope_with' 'harmonize']","[['accord' '332']
+ ['agree' '17']
+ ['concur' '1']
+ ['correspond' '101']
+ ['fit' '21']
+ ['grant' '20']
+ ['harmonize' '3']
+ ['match' '374']
+ ['reconcile' '1']
+ ['twin' '1']]","['accord' 'agree' 'concur' 'correspond' 'fit' 'grant' 'harmonize' 'match'
+ 'reconcile' 'twin']"
+17,17,report,['calculate' 'describe' 'report' 'cover' 'answer_for' 'account'],"[['account' '80']
+ ['report' '2271']]",['account' 'report']
+18,18,accredit,['recognise' 'accredit' 'recognize' 'credit'],[['accredit' '1']],['accredit']
+19,19,accrue,['accrue' 'fall'],[['accrue' '6']],['accrue']
+20,20,collect,"['write' 'pull_in' 'frame' 'redact' 'put' 'compose' 'couch' 'pucker'
+ 'hoard' 'border' 'tuck' 'pull_together' 'pick_up' 'cumulate' 'pen'
+ 'collect' 'garner' 'indite' 'accumulate' 'foregather' 'take_in' 'roll_up'
+ 'gather' 'earn' 'set_up' 'cast' 'entrap' 'assemble' 'save' 'compile'
+ 'frame_up' 'meet' 'get_together' 'gain' 'conglomerate' 'amass' 'ensnare'
+ 'forgather' 'publish' 'call_for' 'gather_up' 'draw_up' 'pile_up'
+ 'frame_in' 'spell' 'drop_a_line']","[['accumulate' '34']
+ ['collect' '950']
+ ['compile' '8']
+ ['compose' '38']
+ ['frame' '1']
+ ['garner' '2']
+ ['gather' '23']
+ ['write' '33']]","['accumulate' 'collect' 'compile' 'compose' 'frame' 'garner' 'gather'
+ 'write']"
+21,21,ache,['pine' 'smart' 'languish' 'suffer' 'yearn' 'hurt' 'yen' 'ache'],[['ache' '17']],['ache']
+22,22,acknowledge,['know' 'receipt' 'acknowledge' 'recognize' 'notice' 'recognise' 'admit'],"[['acknowledge' '12']
+ ['receipt' '4']]",['acknowledge' 'receipt']
+23,23,acquire,"['get' 'produce' 'follow' 'espouse' 'embrace' 'sweep_up' 'take_in'
+ 'evolve' 'take_over' 'assume' 'acquire' 'take' 'take_up' 'dramatize'
+ 'win' 'take_on' 'dramatise' 'develop' 'gain' 'grow' 'borrow' 'adopt'
+ 'larn' 'learn']","[['acquire' '194']
+ ['adopt' '20']]",['acquire' 'adopt']
+24,24,play,"['playact' 'do' 'move' 'wreak' 'wager' 'bring' 'flirt' 'run' 'trifle'
+ 'encounter' 'dally' 'make_for' 'spiel' 'diddle' 'act' 'act_as' 'fiddle'
+ 'behave' 'pretend' 'take_on' 'toy' 'roleplay' 'meet' 'represent' 'bet'
+ 'play' 'recreate' 'dissemble' 'work']","[['act' '23']
+ ['play' '122']]",['act' 'play']
+25,25,activate,"['trigger_off' 'sparkle' 'trigger' 'trip' 'touch_off' 'activate'
+ 'spark_off' 'aerate' 'actuate' 'set_off' 'spark']","[['activate' '110']
+ ['spark' '9']
+ ['trigger' '85']]",['activate' 'spark' 'trigger']
+26,26,provide,"['furnish' 'get' 'transmit' 'fit' 'wreak' 'bestow' 'make_for' 'summate'
+ 'correspond' 'append' 'score' 'fetch' 'jibe' 'bring_in' 'add_on'
+ 'channel' 'resume' 'bequeath' 'tack_on' 'supplement' 'institute' 'work'
+ 'depart' 'bring' 'add' 'lead' 'come' 'get_out' 'rack_up' 'pull_up_stakes'
+ 'go_out' 'land' 'render' 'add_up' 'pass_on' 'offer' 'amount' 'total'
+ 'entrust' 'check' 'lend' 'chalk_up' 'give' 'convey' 'provide' 'supply'
+ 'will' 'impart' 'kick_in' 'hit' 'carry' 'bring_home_the_bacon' 'number'
+ 'play' 'forget' 'affix' 'conduce' 'tot' 'leave_behind' 'contribute'
+ 'summarize' 'allow_for' 'tally' 'sum_up' 'put_up' 'go_away' 'tot_up'
+ 'summarise' 'leave' 'tag_on' 'sum' 'tack' 'take' 'ply' 'loan' 'agree'
+ 'conduct' 'cater' 'add_together' 'chip_in' 'hang_on' 'gibe' 'match'
+ 'result' 'tote_up' 'issue' 'allow' 'go_forth' 'leave_alone' 'exit']","[['add' '90']
+ ['append' '2']
+ ['bring' '34']
+ ['contribute' '227']
+ ['impart' '2']
+ ['leave' '118']
+ ['lend' '2']
+ ['provide' '1120']
+ ['sum' '2']
+ ['summarise' '4']
+ ['summarize' '56']
+ ['supplement' '13']
+ ['supply' '10']
+ ['tally' '1']
+ ['total' '3']]","['add' 'append' 'bring' 'contribute' 'impart' 'leave' 'lend' 'provide'
+ 'sum' 'summarise' 'summarize' 'supplement' 'supply' 'tally' 'total']"
+27,27,cover,"['brood' 'verbalise' 'comprehend' 'dog' 'swing_out' 'pass_over'
+ 'drop_behind' 'speak' 'spill_the_beans' 'queer' 'bilk' 'swing' 'sing'
+ 'crossbreed' 'extend' 'blab' 'call' 'wrap_up' 'hatch' 'spread_over'
+ 'encompass' 'embrace' 'breed' 'hybridize' 'traverse' 'frustrate' 'handle'
+ 'sweep' 'compensate' 'foil' 'underwrite' 'deal' 'broom' 'tangle' 'chase'
+ 'shack' 'hide' 'hang_back' 'overlay' 'spill' 'direct' 'overcompensate'
+ 'span' 'baffle' 'utter' 'trail' 'get_over' 'come_up_to' 'embroil'
+ 'interbreed' 'tag' 'chase_after' 'continue' 'plow' 'intersect' 'track'
+ 'train' 'shroud' 'address' 'verbalize' 'insure' 'cross' 'thwart'
+ 'go_after' 'turn_to' 'peach' 'enshroud' 'report' 'cover' 'tail'
+ 'babble_out' 'scotch' 'hybridise' 'blab_out' 'talk'
+ 'let_the_cat_out_of_the_bag' 'drag' 'drag_in' 'spoil' 'babble' 'sweep_up'
+ 'give_chase' 'tattle' 'get_behind' 'accost' 'mouth' 'brush' 'lecture'
+ 'sail' 'drop_back' 'treat' 'incubate' 'cover_up' 'get_across'
+ 'cut_across' 'cut_through']","[['address' '53']
+ ['cover' '62']
+ ['cross' '7']
+ ['encompass' '10']
+ ['incubate' '10']
+ ['span' '17']
+ ['speak' '3']
+ ['sweep' '1']
+ ['talk' '1']
+ ['track' '37']
+ ['trail' '4']]","['address' 'cover' 'cross' 'encompass' 'incubate' 'span' 'speak' 'sweep'
+ 'talk' 'track' 'trail']"
+28,28,bind,"['link_up' 'splice' 'rive' 'link' 'truss' 'tie' 'stand_by' 'stick_to'
+ 'cling' 'stick_by' 'attach' 'adhere' 'obligate' 'marry' 'constipate'
+ 'oblige' 'wed' 'hold_fast' 'bond' 'bandage' 'bind' 'hold' 'connect'
+ 'cleave' 'split' 'stick' 'cohere' 'tie_down' 'draw' 'tie_up']","[['adhere' '9']
+ ['bind' '987']
+ ['cleave' '1']
+ ['tie' '2']]",['adhere' 'bind' 'cleave' 'tie']
+29,29,adjourn,['withdraw' 'adjourn' 'break_up' 'retire' 'recess'],[['adjourn' '1']],['adjourn']
+30,30,resolve,"['solve' 'resolve' 'try' 'judge' 'purpose' 'adjudicate' 'dissolve'
+ 'break_up' 'answer' 'conclude' 'decide' 'settle' 'determine'
+ '""make_up_ones_mind""']","[['adjudicate' '4']
+ ['decide' '20']
+ ['resolve' '104']]",['adjudicate' 'decide' 'resolve']
+31,31,treat,"['dish_out' 'trade' 'portion_out' 'pull_off' 'get_by' 'allot' 'grant'
+ 'disperse' 'pass_out' 'administrate' 'consider' 'partake' 'flounder'
+ 'careen' 'portion' 'carry_on' 'circularise' 'distribute' 'make_do'
+ 'pass_around' 'handle' 'grapple' 'deal' 'reel' 'sell' 'wangle' 'care_for'
+ 'swag' 'pass_on' 'superintend' 'care' 'keel' 'mete_out' 'parcel_out' 'do'
+ 'manage' 'plow' 'circularize' 'supervise' 'stagger' 'make_out' 'give_out'
+ 'assign' 'address' 'wield' 'hand_out' 'dispense' 'negociate' 'dole_out'
+ 'administer' 'spread' 'cover' 'cope' 'accord' 'bring_off' 'carry_off'
+ 'monitor' 'diffuse' 'broadcast' 'regale' 'look_at' 'lurch' 'contend'
+ 'apportion' 'propagate' 'circulate' 'do_by' 'take' 'divvy_up' 'process'
+ 'conduct' 'share' 'shell_out' 'palm' 'lot' 'treat' 'finagle' 'deal_out'
+ 'partake_in' 'disseminate' 'oversee']","[['administer' '563']
+ ['administrate' '14']
+ ['allot' '4']
+ ['deal' '7']
+ ['dispense' '3']
+ ['distribute' '43']
+ ['handle' '2']
+ ['manage' '67']
+ ['oversee' '1']
+ ['propagate' '8']
+ ['share' '42']
+ ['stagger' '2']
+ ['supervise' '2']
+ ['treat' '671']]","['administer' 'administrate' 'allot' 'deal' 'dispense' 'distribute'
+ 'handle' 'manage' 'oversee' 'propagate' 'share' 'stagger' 'supervise'
+ 'treat']"
+32,32,admix,['admix'],[['admix' '5']],['admix']
+33,33,adsorb,['adsorb'],[['adsorb' '19']],['adsorb']
+34,34,boost,"['get_up' 'get_ahead' 'kick_upstairs' 'go_on' 'gain_ground' 'boost' 'hike'
+ 'come_along' 'lift' 'advance' 'march_on' 'further' 'move_on' 'get_along'
+ 'raise' 'supercharge' 'set_ahead' 'get_on' 'win' 'upgrade' 'bring_up'
+ 'bring_forward' 'build' 'encourage' 'push' 'advertize' 'gain'
+ 'make_headway' 'hike_up' 'shape_up' 'work_up' 'progress' 'throw_out'
+ 'pass_on' 'build_up' 'promote' 'elevate' 'advertise' 'pull_ahead'
+ 'come_on']","[['advance' '9']
+ ['boost' '448']
+ ['elevate' '143']
+ ['encourage' '51']
+ ['progress' '43']
+ ['promote' '108']]",['advance' 'boost' 'elevate' 'encourage' 'progress' 'promote']
+35,35,advantage,['advantage'],[['advantage' '1']],['advantage']
+36,36,notify,"['propose' 'apprise' 'send_word' 'advise' 'give_notice' 'suggest'
+ 'apprize' 'counsel' 'notify' 'rede']","[['advise' '21']
+ ['counsel' '6']
+ ['notify' '25']]",['advise' 'counsel' 'notify']
+37,37,recommend,['urge' 'preach' 'commend' 'advocate' 'recommend'],"[['advocate' '9']
+ ['recommend' '361']]",['advocate' 'recommend']
+38,38,aerosolise,['aerosolise' 'aerosolize'],"[['aerosolise' '5']
+ ['aerosolize' '3']]",['aerosolise' 'aerosolize']
+39,39,affect,"['bear_upon' 'pretend' 'strike' 'impact' 'regard' 'touch' 'touch_on'
+ 'move' 'involve' 'feign' 'dissemble' 'affect' 'impress' 'sham' 'bear_on']","[['affect' '492']
+ ['impact' '97']]",['affect' 'impact']
+40,40,associate,"['link_up' 'get_in_touch' 'consort' 'link' 'touch_base' 'fall_in' 'yoke'
+ 'tie' 'plug_into' 'bring_together' 'tie_in' 'relate' 'plug_in' 'join'
+ 'assort' 'associate' 'get_together' 'consociate' 'connect' 'conjoin'
+ 'unite' 'affiliate' 'colligate']","[['affiliate' '7']
+ ['associate' '1982']
+ ['connect' '4']
+ ['join' '2']
+ ['link' '350']]",['affiliate' 'associate' 'connect' 'join' 'link']
+41,41,confirm,"['affirm' 'corroborate' 'substantiate' 'incarnate' 'insist' 'underpin'
+ 'put_forward' 'swan' 'actualize' 'body_forth' 'reassert' 'embody'
+ 'bear_out' 'avow' 'verify' 'realise' 'assert' 'asseverate' 'validate'
+ 'realize' 'control' 'maintain' 'actualise' 'swear' 'aver' 'confirm'
+ 'support' 'sustain']","[['affirm' '3']
+ ['assert' '2']
+ ['confirm' '1123']
+ ['corroborate' '13']
+ ['substantiate' '2']
+ ['verify' '42']]",['affirm' 'assert' 'confirm' 'corroborate' 'substantiate' 'verify']
+42,42,afflict,['smite' 'afflict'],[['afflict' '6']],['afflict']
+43,43,afford,['open' 'spread_out' 'yield' 'open_up' 'unfold' 'spread' 'give' 'afford'],"[['afford' '25']
+ ['open' '9']]",['afford' 'open']
+44,44,age,['get_on' 'age' 'senesce' 'maturate' 'suppurate' 'grow' 'mature' 'ripen'],"[['age' '830']
+ ['mature' '10']]",['age' 'mature']
+45,45,agglutinate,['agglutinate'],[['agglutinate' '1']],['agglutinate']
+46,46,worsen,['decline' 'exacerbate' 'worsen' 'aggravate' 'exasperate'],"[['aggravate' '6']
+ ['exacerbate' '10']
+ ['worsen' '70']]",['aggravate' 'exacerbate' 'worsen']
+47,47,combine,"['shamble' 'coalesce' 'sharpen' 'unify' 'integrate' 'amalgamate' 'flux'
+ 'desegregate' 'mix_in' 'deepen' 'enhance' 'ruffle' 'meld' 'heighten'
+ 'mix' 'rise' 'shuffle' 'compound' 'raise' 'scuffle' 'commingle'
+ 'intensify' 'commix' 'combine' 'immix' 'step_up' 'blend' 'mingle'
+ 'change' 'fuse' 'conflate' 'merge' 'unite' 'escalate' 'aggregate']","[['aggregate' '5']
+ ['combine' '213']
+ ['compound' '2']
+ ['deepen' '1']
+ ['fuse' '9']
+ ['heighten' '10']
+ ['intensify' '6']
+ ['merge' '3']
+ ['mix' '14']
+ ['shuffle' '1']
+ ['unify' '1']]","['aggregate' 'combine' 'compound' 'deepen' 'fuse' 'heighten' 'intensify'
+ 'merge' 'mix' 'shuffle' 'unify']"
+48,48,serve,"['dish_out' 'advert' 'go_to' 'do' 'serve_up' 'dish_up' 'service' 'assist'
+ 'function' 'take_care' 'suffice' 'help_oneself' 'serve' 'facilitate'
+ 'avail' 'pay_heed' 'process' 'attend_to' 'look' 'attend' 'serve_well'
+ 'wait_on' 'aid' 'dish' 'swear_out' 'answer' 'see' 'help' 'hang'
+ 'give_ear']","[['aid' '20']
+ ['assist' '39']
+ ['attend' '67']
+ ['help' '62']
+ ['serve' '129']
+ ['suffice' '2']]",['aid' 'assist' 'attend' 'help' 'serve' 'suffice']
+49,49,aim,"['project' 'get' 'externalise' 'guess' 'approximate' 'purport' 'reckon'
+ 'figure' 'unionise' 'target' 'protrude' 'dog' 'jut' 'numerate' 'bug_out'
+ 'form' 'consider' 'face' 'judge' 'purpose' 'adjudicate' 'matter' 'look'
+ 'sign' 'itemise' 'orient' 'enumerate' 'charge' 'recite' 'pop_out'
+ 'channelise' 'guide' 'shoot_for' 'aver' 'pop' 'sound_out' 'articulate'
+ 'sharpen' 'bulge' 'pull' 'wait' 'signal' 'enter' 'coerce' 'picture'
+ 'await' 'evaluate' 'send' 'betoken' 'bespeak' 'channelize' 'coordinate'
+ 'orchestrate' 'itemize' 'lead' 'chase' 'cipher' 'seem' 'calculate' 'read'
+ 'fancy' 'unionize' 'attend' 'devise' 'repoint' 'indicate' 'jut_out'
+ 'direct' 'labor' 'bet' 'plan' 'label' 'trail' 'signalise' 'estimate'
+ 'forecast' 'draw_a_bead_on' 'mastermind' 'ram' 'wedge' 'tag' 'dock' 'say'
+ 'try' 'mark' 'chase_after' 'tell' 'place' 'track' 'beat_back' 'force'
+ 'train' 'steer' 'contrive' 'organize' 'engineer' 'address' 'stick_out'
+ 'allege' 'press' 'drive' 'visualise' 'luff' 'go_after' 'machinate' 'head'
+ 'image' 'gauge' 'pronounce' 'front' 'librate' 'come_out' 'weigh'
+ 'organise' 'tail' 'account' 'depend' 'number' 'squeeze' 'appear' 'throw'
+ 'enjoin' 'bob' 'storm' 'show' 'count_on' 'thrust' 'maneuver' 'draw'
+ 'labour' 'enunciate' 'enounce' 'pouch' 'force_back' 'take_aim' 'pressure'
+ 'get_up' 'visualize' 'point' 'expect' 'manoeuvre' 'externalize' 'search'
+ 'envision' 'give_chase' 'run' 'signalize' 'cypher' 'take_care' 'start'
+ 'aim' 'bulge_out' 'take' 'pass_judgment' 'cast' 'propose' 'conduct'
+ 'push' 'count' 'design' 'designate' 'manoeuver' 'level' 'guide_on'
+ 'work_out' 'impel' 'push_back' 'motor' 'hale' 'pass' 'repel' 'state'
+ 'tug' 'prepare' 'aspire' 'ride' 'repulse' 'order' 'compute' 'suppose'
+ 'see' 'send_off' 'taper']","[['aim' '798']
+ ['aspire' '1']
+ ['calculate' '205']
+ ['compute' '56']
+ ['count' '60']
+ ['depend' '148']
+ ['direct' '88']
+ ['drive' '110']
+ ['engineer' '9']
+ ['enumerate' '2']
+ ['estimate' '544']
+ ['figure' '3']
+ ['force' '7']
+ ['gauge' '3']
+ ['guide' '92']
+ ['image' '78']
+ ['judge' '9']
+ ['label' '25']
+ ['look' '30']
+ ['matter' '6']
+ ['organize' '5']
+ ['point' '9']
+ ['project' '8']
+ ['pronounce' '31']
+ ['protrude' '2']
+ ['say' '9']
+ ['seem' '139']
+ ['signal' '39']
+ ['tag' '5']
+ ['tail' '2']
+ ['taper' '3']
+ ['target' '281']
+ ['visualize' '3']
+ ['weigh' '12']]","['aim' 'aspire' 'calculate' 'compute' 'count' 'depend' 'direct' 'drive'
+ 'engineer' 'enumerate' 'estimate' 'figure' 'force' 'gauge' 'guide'
+ 'image' 'judge' 'label' 'look' 'matter' 'organize' 'point' 'project'
+ 'pronounce' 'protrude' 'say' 'seem' 'signal' 'tag' 'tail' 'taper'
+ 'target' 'visualize' 'weigh']"
+50,50,alarm,"['appal' 'scandalise' 'alert' 'alarm' 'shock' 'outrage' 'scandalize'
+ 'dismay' 'offend' 'appall' 'horrify']","[['alarm' '8']
+ ['alert' '3']
+ ['appal' '1']]",['alarm' 'alert' 'appal']
+51,51,facilitate,"['unbosom' 'quench' 'comfort' 'palliate' 'free' 'excuse' 'allay' 'remedy'
+ 'take_over' 'salvage' 'let_off' 'facilitate' 'slake' 'assuage' 'exempt'
+ 'still' 'relieve' 'save' 'salve' 'lighten' 'ease' 'alleviate' 'help']","[['allay' '1']
+ ['ease' '8']
+ ['facilitate' '33']
+ ['relieve' '5']]",['allay' 'ease' 'facilitate' 'relieve']
+52,52,allege,['say' 'allege' 'aver'],[['allege' '1']],['allege']
+53,53,alleviate,['assuage' 'facilitate' 'alleviate' 'palliate' 'ease' 'relieve'],[['alleviate' '7']],['alleviate']
+54,54,allocate,['apportion' 'allocate'],[['allocate' '31']],['allocate']
+55,55,ally,['ally'],[['ally' '2']],['ally']
+56,56,modify,"['merchandise' 'transport' 'trade' 'transmit' 'switch' 'reposition'
+ 'commute' 'tilt' 'wobble' 'neuter' 'spay' 'convince' 'budge' 'reassign'
+ 'stir' 'deepen' 'flip-flop' 'lurch' 'alternate' 'channelize' 'remove'
+ 'modify' 'trade_in' 'deal' 'transfer' 'transplant' 'tack' 'dislodge'
+ 'sell' 'agitate' 'careen' 'castrate' 'shift' 'graft' 'exchange'
+ 'interpolate' 'convert' 'channel' 'transpose' 'swap' 'throw' 'win_over'
+ 'interchange' 'change' 'switch_over' 'vary' 'pitch' 'channelise'
+ 'falsify' 'swop' 'flip' 'qualify' 'alter' 'change_over']","[['alter' '75']
+ ['change' '87']
+ ['convert' '68']
+ ['convince' '1']
+ ['modify' '201']
+ ['shift' '14']
+ ['switch' '37']
+ ['trade' '9']
+ ['transfer' '31']
+ ['transplant' '11']]","['alter' 'change' 'convert' 'convince' 'modify' 'shift' 'switch' 'trade'
+ 'transfer' 'transplant']"
+57,57,understudy,"['switch' 'jump_off' 'parachute' 'skip' 'skip_over' 'flip-flop' 'leap'
+ 'climb_up' 'pass_over' 'alternate' 'stick_out' 'decamp' 'cut' 'start'
+ 'bound_off' 'stand_out' 'rise' 'bound' 'vamoose' 'take_turns' 'tack'
+ 'skim' 'leap_out' 'hop-skip' 'jumpstart' 'hop' 'understudy' 'startle'
+ 'skitter' 'chute' 'spring' 'interchange' 'jump' 'jump_out' 'flip'
+ 'derail' 'jump-start']","[['alternate' '3']
+ ['jump' '1']
+ ['skip' '2']
+ ['understudy' '4']]",['alternate' 'jump' 'skip' 'understudy']
+58,58,improve,"['amend' 'remediate' 'repair' 'rectify' 'ameliorate' 'improve' 'remedy'
+ 'better' 'meliorate']","[['ameliorate' '8']
+ ['amend' '7']
+ ['improve' '447']
+ ['remediate' '3']]",['ameliorate' 'amend' 'improve' 'remediate']
+59,59,come,"['deign' 'total' 'get' 'do' 'issue_forth' 'come_in' 'go_down' 'follow'
+ 'come_up' 'condescend' 'make_out' 'numerate' 'lessen' 'derive' 'fall'
+ 'decrease' 'arrive' 'devolve' 'shine' 'flow' 'get_along' 'keep_down'
+ 'list' 'hail' 'return' 'come' 'diminish' 'settle' 'count' 'fall_down'
+ 'herald' 'enumerate' 'number' 'acclaim' 'strike' 'pass' 'add_up' 'occur'
+ 'light' 'fare' 'amount' 'descend' 'come_down' 'accrue' 'hang'
+ 'precipitate']","[['amount' '8']
+ ['come' '49']
+ ['descend' '9']
+ ['fall' '31']
+ ['hail' '1']
+ ['number' '2']
+ ['precipitate' '5']]",['amount' 'come' 'descend' 'fall' 'hail' 'number' 'precipitate']
+60,60,amplify,"['amplify' 'magnify' 'blow_up' 'hyperbolize' 'overdo' 'enlarge'
+ 'overstate' 'exaggerate' 'overdraw' 'inflate' 'expand' 'hyperbolise']","[['amplify' '21']
+ ['exaggerate' '1']
+ ['magnify' '1']]",['amplify' 'exaggerate' 'magnify']
+61,61,test,"['try' 'test' 'psychoanalyse' 'examine' 'contemplate' 'psychoanalyze'
+ 'probe' 'dig_into' 'quiz' 'poke_into' 'consider' 'analyse' 'take'
+ 'canvas' 'take_apart' 'study' 'read' 'analyze' 'hit_the_books' 'meditate'
+ 'essay' 'canvass' 'screen' 'try_out' 'dissect' 'prove' 'break_down' 'see'
+ 'learn']","[['analyse' '166']
+ ['analyze' '572']
+ ['dissect' '4']
+ ['examine' '358']
+ ['probe' '7']
+ ['study' '602']
+ ['test' '969']]",['analyse' 'analyze' 'dissect' 'examine' 'probe' 'study' 'test']
+62,62,anchor,['anchor' 'ground' 'cast_anchor' 'drop_anchor'],[['anchor' '10']],['anchor']
+63,63,ankylose,['ankylose' 'ancylose'],[['ankylose' '2']],['ankylose']
+64,64,annotate,['gloss' 'annotate' 'comment' 'footnote'],[['annotate' '2']],['annotate']
+65,65,declare,"['declare' 'hold' 'hail' 'acclaim' 'foretell' 'refer' 'denote' 'adjudge'
+ 'announce' 'harbinger' 'herald' 'annunciate']","[['announce' '6']
+ ['declare' '44']
+ ['denote' '3']
+ ['herald' '2']]",['announce' 'declare' 'denote' 'herald']
+66,66,respond,['do' 'respond' 'answer' 'suffice' 'serve' 'resolve' 'reply' 'react'],"[['answer' '26']
+ ['respond' '166']]",['answer' 'respond']
+67,67,promise,"['promise' 'blazon_out' 'foretell' 'anticipate' 'expect' 'foreknow'
+ 'scream' 'telephone' 'envision' 'forestall' 'hollo' 'holler' 'address'
+ 'send_for' 'bid' 'counter' 'call_out' 'forebode' 'visit' 'look_for'
+ 'ring' 'cry' 'foresee' 'shout' 'call_off' 'name' 'phone' 'weep' 'predict'
+ 'outcry' 'exclaim' 'look_to' 'assure' 'yell' 'call_up' 'squall' 'previse'
+ 'call' 'call_in' 'prognosticate' 'shout_out' 'cry_out']","[['anticipate' '24']
+ ['call' '81']
+ ['counter' '2']
+ ['cry' '1']
+ ['foresee' '1']
+ ['promise' '86']
+ ['telephone' '1']]",['anticipate' 'call' 'counter' 'cry' 'foresee' 'promise' 'telephone']
+68,68,appear,['appear' 'come_along' 'look' 'come_out' 'seem'],[['appear' '226']],['appear']
+69,69,use,"['domiciliate' 'reside' 'affiance' 'chit-chat' 'put_away' 'domicile'
+ 'carry_out' 'use' 'occupy' 'enforce' 'repose' 'pursue' 'go_for' 'lease'
+ 'mesh' 'go_through' 'expend' 'wage' 'hold' 'concern' 'inflict' 'call'
+ 'inspect' 'practice' 'bring_down' 'chatter' 'lend_oneself' 'absorb'
+ 'fill' 'quest_after' 'impose' 'chat' 'shack' 'engross' 'interlock'
+ 'lock_in' 'shut_up' 'utilise' 'act_on' 'habituate' 'claver' 'confab'
+ 'busy' 'care' 'plight' 'follow_through' 'lock' 'charter' 'travel_to'
+ 'lock_away' 'chitchat' 'give' 'chew_the_fat' 'prosecute' 'shut_away'
+ 'implement' 'confabulate' 'go_after' 'rent' 'visit' 'rest' 'put_through'
+ 'put_on' 'follow_out' 'utilize' 'hire' 'enlist' 'engage' 'call_in' 'vex'
+ 'lodge_in' 'interest' 'apply' 'follow' 'levy' 'jaw' 'operate' 'betroth'
+ 'employ' 'take' 'follow_up' 'follow_up_on' 'interlace' 'natter' 'worry'
+ 'invade' 'quest_for' 'shoot_the_breeze' 'lock_up' 'gossip' 'see'
+ 'chaffer' 'use_up']","[['apply' '189']
+ ['employ' '61']
+ ['enforce' '3']
+ ['engage' '4']
+ ['implement' '104']
+ ['impose' '14']
+ ['lock' '5']
+ ['occupy' '3']
+ ['pursue' '7']
+ ['reside' '28']
+ ['use' '3732']
+ ['utilise' '7']
+ ['utilize' '82']
+ ['visit' '47']
+ ['worry' '1']]","['apply' 'employ' 'enforce' 'engage' 'implement' 'impose' 'lock' 'occupy'
+ 'pursue' 'reside' 'use' 'utilise' 'utilize' 'visit' 'worry']"
+70,70,evaluate,"['quantify' 'measure' 'tax' 'prise' 'evaluate' 'survey' 'mensurate'
+ 'esteem' 'appreciate' 'pass_judgment' 'treasure' 'judge' 'measure_out'
+ 'prize' 'appraise' 'respect' 'value' 'assess' 'valuate' 'rate']","[['appraise' '4']
+ ['assess' '1098']
+ ['evaluate' '1268']
+ ['measure' '710']
+ ['quantify' '96']
+ ['value' '1']]",['appraise' 'assess' 'evaluate' 'measure' 'quantify' 'value']
+71,71,appreciate,"['treasure' 'take_account' 'apprize' 'revalue' 'appreciate' 'value'
+ 'prize' 'apprise']",[['appreciate' '6']],['appreciate']
+72,72,approach,"['come_near' 'near' 'approach' 'go_about' 'draw_close' 'go_up' 'border_on'
+ 'set_about' 'draw_near' 'come_on']","[['approach' '36']
+ ['near' '1']]",['approach' 'near']
+73,73,approve,['okay' 'sanction' 'approve' 'O.K.'],[['approve' '258']],['approve']
+74,74,approximate,['estimate' 'judge' 'approximate' 'guess' 'gauge' 'come_close'],[['approximate' '5']],['approximate']
+75,75,archive,['archive' 'file_away'],[['archive' '3']],['archive']
+76,76,surround,"['surround' 'shinny' 'manage' 'argue' 'scramble' 'make_do' 'border'
+ 'environ' 'besiege' 'repugn' 'make_out' 'fence_in' 'postulate'
+ 'circumvent' 'get_by' 'clamber' 'contend' 'grapple' 'skin' 'struggle'
+ 'deal' 'smother' 'reason' 'contest' 'fence' 'indicate' 'ring' 'compete'
+ 'hem_in' 'debate' 'sputter' 'shin' 'cope' 'vie' 'beleaguer' 'skirt'
+ 'palisade' 'fight' 'wall']","[['argue' '18']
+ ['contend' '2']
+ ['cope' '2']
+ ['fence' '1']
+ ['struggle' '5']
+ ['surround' '21']]",['argue' 'contend' 'cope' 'fence' 'struggle' 'surround']
+77,77,develop,"['explicate' 'take_aim' 'get_up' 'get' 'check' 'climb' 'cultivate' 'coat'
+ 'produce' 'come_up' 'rear' 'condition' 'wax' 'bob_up' 'farm' 'ascend'
+ 'train' 'break' 'modernise' 'lift' 'climb_up' 'uprise' 'heighten' 'start'
+ 'evolve' 'show_up' 'aim' 'move_up' 'rise' 'surface' 'make_grow' 'acquire'
+ 'raise' 'civilise' 'coach' 'originate' 'civilize' 'take' 'initiate'
+ 'arise' 'come_out' 'educate' 'formulate' 'spring_up' 'modernize' 'direct'
+ 'develop' 'go_up' 'grow' 'rebel' 'germinate' 'turn_up' 'mount' 'rise_up'
+ 'rail' 'groom' 'school' 'stand_up' 'turn' 'build_up' 'prepare' 'maturate'
+ 'jump' 'resurrect' 'turn_out' 'trail' 'discipline' 'prove' 'mature'
+ 'recrudesce' 'come_on']","[['arise' '47']
+ ['develop' '1430']
+ ['educate' '9']
+ ['evolve' '66']
+ ['grow' '72']
+ ['originate' '16']
+ ['rise' '69']
+ ['surface' '2']
+ ['train' '40']]","['arise' 'develop' 'educate' 'evolve' 'grow' 'originate' 'rise' 'surface'
+ 'train']"
+78,78,arm,['build_up' 'gird' 'arm' 'fortify'],[['arm' '13']],['arm']
+79,79,elicit,"['get' 'stir_up' 'beset' 'chivvy' 'cause' 'shake' 'kindle' 'set_up'
+ 'upgrade' 'bring_up' 'draw_out' 'touch' 'call_forth' 'erect' 'fire'
+ 'kick_up' 'awake' 'come_alive' 'parent' 'inflame' 'awaken' 'conjure'
+ 'hassle' 'kick_upstairs' 'produce' 'pull' 'harass' 'stir' 'plague'
+ 'molest' 'heighten' 'distil' 'provoke' 'hasten' 'rise' 'paint_a_picture'
+ 'fire_up' 'agitate' 'press_out' 'evoke' 'energize' 'extract' 'sex'
+ 'rise_up' 'wake' 'call_down' 'leaven' 'prove' 'nurture' 'excerpt'
+ 'chevvy' 'suggest' 'upraise' 'harry' 'budge' 'farm' 'put_forward'
+ 'stimulate' 'lift' 'advance' 'enkindle' 'raise' 'conjure_up' 'appeal'
+ 'distill' 'waken' 'shift' 'wind_up' 'take_out' 'heat' 'chivy' 'chevy'
+ 'grow' 'elicit' 'recruit' 'pull_up' 'turn_on' 'resurrect' 'express'
+ 'elevate' 'rouse' 'educe' 'rush' 'arouse' 'induce' 'energise' 'get_up'
+ 'put_up' 'rear' 'levy' 'wake_up' 'perk_up' 'enhance' 'brace' 'make'
+ 'have' 'shake_up' 'ignite' 'pull_out' 'promote' 'invoke' 'excite']","[['arouse' '1']
+ ['awaken' '1']
+ ['elicit' '397']
+ ['energize' '2']
+ ['evoke' '5']
+ ['extract' '81']
+ ['invoke' '3']
+ ['provoke' '16']
+ ['raise' '239']
+ ['rear' '7']
+ ['stimulate' '127']
+ ['stir' '2']
+ ['wake' '3']]","['arouse' 'awaken' 'elicit' 'energize' 'evoke' 'extract' 'invoke'
+ 'provoke' 'raise' 'rear' 'stimulate' 'stir' 'wake']"
+80,80,do,"['arrange' 'decorate' 'tog' 'do' 'put' 'stage' 'coif' 'manage' 'apply'
+ 'line_up' 'raiment' 'garnish' 'cut_back' 'apparel' 'make_out' 'crop'
+ 'clip' 'use' 'cause' 'wield' 'trim' 'suffice' 'drill' 'prune' 'serve'
+ 'act' 'get_along' 'exercise' 'set_up' 'behave' 'come' 'curry' 'preen'
+ 'format' 'perform' 'make' 'dress' 'garb' 'commit' 'snip' 'enclothe'
+ 'dress_out' 'work_out' 'dress_up' 'groom' 'habilitate' 'execute' 'primp'
+ 'maintain' 'lop' 'set' 'coiffe' 'answer' 'clothe' 'garment' 'get_dressed'
+ 'rehearse' 'fit_out' 'order' 'coiffure' 'fare' 'practise' 'plume'
+ 'fix_up' 'exert' 'work' 'practice']","[['arrange' '1']
+ ['do' '95']
+ ['dress' '1']
+ ['exercise' '3']
+ ['exert' '3']
+ ['practice' '9']
+ ['practise' '1']]",['arrange' 'do' 'dress' 'exercise' 'exert' 'practice' 'practise']
+81,81,arrive,['come' 'go_far' 'arrive' 'get_in' 'get' 'make_it'],[['arrive' '2']],['arrive']
+82,82,ascend,['rise' 'climb_up' 'come_up' 'go_up' 'ascend' 'move_up' 'uprise'],[['ascend' '6']],['ascend']
+83,83,observe,"['surmount' 'restrain' 'vouch' 'find_out' 'go_over' 'watch' 'score'
+ 'shape' 'economize' 'pull_wires' 'stipulate' 'fake' 'watch_out' 'harbor'
+ 'bind' 'preserve' 'oppose' 'commemorate' 'mold' 'bring_through'
+ 'hold_open' 'square_up' 'subdue' 'warrant' 'guard' 'bottle_up'
+ 'underwrite' 'uphold' 'make_unnecessary' 'wangle' 'keep' 'dispose'
+ 'get_over' 'stigmatise' 'look_into' 'characterise' 'adjudge' 'stamp_down'
+ 'give' 'dominate' 'nurse' 'wield' 'insure' 'retain' 'get_the_hang'
+ 'retard' 'deluge' 'keep_in_line' 'stone' 'assure' 'detain' 'sustain'
+ 'declare' 'subjugate' 'fix' 'get_the_best' 'desegregate' 'incorporate'
+ 'overhaul' 'prise' 'operate' 'differentiate' 'keep_down' 'defend' 'cook'
+ 'stay_fresh' 'encumber' 'keep_open' 'set' '""make_up_ones_mind""'
+ 'watch_over' 'observe' 'resist' 'overwhelm' 'fit' 'justify' 'determine'
+ 'go_on' 'conserve' 'limit' 'overpower' 'catch_up_with' 'stop'
+ 'correspond' 'sweep_over' 'redeem' 'see_to_it' 'economise' 'assert'
+ 'brand' 'pull_through' 'chink' 'carry_on' 'honour' 'scar' 'curtail'
+ 'qualify' 'support' 'lay_aside' 'catch' 'tame' 'circumscribe' 'obtain'
+ 'curb' 'square_off' 'chequer' 'prevent' 'trammel' 'take_down' 'baffle'
+ 'get_the_better_of' 'value' 'tag' 'hold_up' 'chasten' 'mark' 'check'
+ 'grade' 'have_the_best' 'break' 'esteem' 'notice' 'act_upon' 'relieve'
+ 'crush' 'check_off' 'regulate' 'withstand' 'keep_an_eye_on' 'hold_on'
+ 'strike_off' 'specify' 'falsify' 'exert' 'tally' 'play_off'
+ 'misrepresent' 'mark_off' 'cut_back' 'comment' 'comprise' 'ensure' 'take'
+ 'agree' 'obligate' 'make' 'salve' 'view_as' 'moderate' 'gibe' 'match'
+ 'keep_back' 'prize' 'view' 'strike_out' 'maintain' 'cross_off' 'inhibit'
+ 'go_along' 'stigmatize' 'arrest' 'check_out' 'defeat' 'integrate' 'tick'
+ 'throttle' 'overtake' 'seduce' 'point_out' 'harbour' 'fudge' 'mention'
+ 'flood_out' 'modify' 'deem' 'go_for' 'carry_through' 'take_for' 'oblige'
+ 'rig' 'hold' 'control' 'govern' 'respect' 'delay' 'take_in' 'bound'
+ 'detect' 'tick_off' 'hold_out' 'prevail' 'look_on' 'cross_out'
+ 'overmaster' 'regularize' 'charm' 'repress' 'distinguish' 'write'
+ 'manipulate' 'stand_firm' 'tell' 'cumber' 'discover' 'pock' 'reserve'
+ 'check_into' 'subordinate' 'keep_on' 'salvage' 'characterize'
+ 'regularise' 'accommodate' 'save' 'honor' 'constrain' 'throw' 'suss_out'
+ 'modulate' 'pit' 'apply' 'remark' 'confine' 'stay' 'master' 'define'
+ 'checker' 'have_got' 'concur' 'pass' 'suppress' 'see' 'restrict'
+ 'hold_back' 'punctuate' 'acknowledge' 'take_note' 'turn_back' 'defy'
+ 'overcome' 'mix' 'submerge' 'deliver' 'verify' 'jibe' 'hold_in'
+ 'ascertain' 'influence' 'compel' 'contain' 'asseverate' 'denounce'
+ 'reassure' 'learn' 'work' 'cut_short' 'measure_up' 'take_hold' 'mortify'
+ 'bear' 'condition' 'halt' 'celebrate' 'check_over' 'find' 'drown'
+ 'intimidate' 'settle' 'rack_up' 'label' 'tempt' 'discipline' 'undertake'
+ 'nock' 'promise' 'look_out' 'book' 'concord' 'continue' 'note' 'train'
+ 'clip' 'spare' 'hit' 'cover' 'keep_up' 'carry' 'check_up_on' 'crack'
+ 'decide' 'reduce' 'proceed' 'pull_strings' 'whelm' 'save_up' 'quash'
+ 'follow' 'conquer' 'command' 'guarantee' 'secure' 'entertain' 'have'
+ 'oppress' 'crucify' 'bear_on' 'order' 'abide_by' 'admit']","[['ascertain' '19']
+ ['assure' '1']
+ ['check' '10']
+ ['condition' '1']
+ ['contain' '345']
+ ['control' '575']
+ ['curb' '17']
+ ['curtail' '9']
+ ['delay' '193']
+ ['determine' '650']
+ ['ensure' '66']
+ ['guarantee' '2']
+ ['hold' '42']
+ ['incorporate' '34']
+ ['influence' '98']
+ ['inhibit' '39']
+ ['insure' '7']
+ ['integrate' '43']
+ ['keep' '48']
+ ['limit' '115']
+ ['maintain' '209']
+ ['manipulate' '2']
+ ['mark' '51']
+ ['master' '2']
+ ['note' '137']
+ ['notice' '1']
+ ['oblige' '1']
+ ['observe' '1173']
+ ['overcome' '50']
+ ['overtake' '2']
+ ['overwhelm' '6']
+ ['pit' '2']
+ ['preserve' '41']
+ ['qualify' '9']
+ ['reassure' '14']
+ ['regulate' '21']
+ ['respect' '3']
+ ['restrain' '1']
+ ['restrict' '63']
+ ['retain' '53']
+ ['save' '24']
+ ['scar' '3']
+ ['score' '8']
+ ['stigmatise' '1']
+ ['stigmatize' '2']
+ ['subdue' '3']
+ ['suppress' '41']
+ ['warrant' '84']
+ ['watch' '3']
+ ['withstand' '3']]","['ascertain' 'assure' 'check' 'condition' 'contain' 'control' 'curb'
+ 'curtail' 'delay' 'determine' 'ensure' 'guarantee' 'hold' 'incorporate'
+ 'influence' 'inhibit' 'insure' 'integrate' 'keep' 'limit' 'maintain'
+ 'manipulate' 'mark' 'master' 'note' 'notice' 'oblige' 'observe'
+ 'overcome' 'overtake' 'overwhelm' 'pit' 'preserve' 'qualify' 'reassure'
+ 'regulate' 'respect' 'restrain' 'restrict' 'retain' 'save' 'scar' 'score'
+ 'stigmatise' 'stigmatize' 'subdue' 'suppress' 'warrant' 'watch'
+ 'withstand']"
+84,84,indicate,"['think_of' 'put' 'argue' 'point' 'fate' 'depute' 'suggest' 'set_apart'
+ 'signal' 'stand_for' 'mean' 'intend' 'denominate' 'ascribe' 'allot'
+ 'assign' 'betoken' 'bespeak' 'think' 'imply' 'impute' 'doom' 'portion'
+ 'indicate' 'destine' 'designate' 'delegate' 'have_in_mind' 'show'
+ 'specify' 'signify' 'arrogate' 'attribute' 'entail']","[['ascribe' '6']
+ ['assign' '189']
+ ['attribute' '50']
+ ['designate' '16']
+ ['impute' '3']
+ ['indicate' '586']
+ ['intend' '18']
+ ['mean' '462']
+ ['signify' '1']]","['ascribe' 'assign' 'attribute' 'designate' 'impute' 'indicate' 'intend'
+ 'mean' 'signify']"
+85,85,need,"['require' 'expect' 'necessitate' 'command' 'postulate' 'desire' 'enquire'
+ 'contend' 'involve' 'affect' 'imply' 'take' 'posit' 'exact' 'want' 'ask'
+ 'need' 'regard' 'call_for' 'inquire' 'demand']","[['ask' '47']
+ ['demand' '9']
+ ['involve' '239']
+ ['necessitate' '9']
+ ['need' '868']
+ ['postulate' '5']
+ ['require' '865']
+ ['want' '4']]","['ask' 'demand' 'involve' 'necessitate' 'need' 'postulate' 'require'
+ 'want']"
+86,86,aspirate,['aspirate' 'suck_out' 'draw_out'],[['aspirate' '1']],['aspirate']
+87,87,assay,"['assay' 'try' 'contract' 'take_on' 'look_for' 'essay' 'guarantee'
+ 'tackle' 'undertake' 'attempt' 'take_in_charge' 'search' 'set_about'
+ 'seek']","[['assay' '248']
+ ['attempt' '8']
+ ['seek' '118']
+ ['undertake' '48']]",['assay' 'attempt' 'seek' 'undertake']
+88,88,assemble,"['set_up' 'tack_together' 'assemble' 'put_together' 'meet' 'gather'
+ 'forgather' 'foregather' 'piece' 'get_together' 'tack']",[['assemble' '2']],['assemble']
+89,89,attach,['bond' 'attach' 'bind' 'impound' 'seize' 'sequester' 'confiscate' 'tie'],[['attach' '11']],['attach']
+90,90,attenuate,['rarefy' 'attenuate'],[['attenuate' '154']],['attenuate']
+91,91,show,"['try' 'register' 'exhibit' 'point' 'evince' 'test' 'attest'
+ 'take_the_stand' 'tell' 'examine' 'strain' 'plump_for' 'picture'
+ 'display' 'sample' 'manifest' 'assay' 'try_on' 'show_up' 'usher'
+ 'bear_witness' 'rise' 'hear' 'back' 'raise' 'evidence' 'march' 'parade'
+ 'demo' 'plunk_for' 'depict' 'present' 'judge' 'read' 'shew' 'expose'
+ 'indicate' 'endorse' 'adjudicate' 'certify' 'licence' 'license' 'turn_up'
+ 'designate' 'attempt' 'record' 'establish' 'demonstrate' 'essay' 'seek'
+ 'testify' 'taste' 'render' 'stress' 'second' 'show' 'leaven' 'turn_out'
+ 'try_out' 'express' 'prove' 'support' 'indorse']","[['attest' '2']
+ ['certify' '8']
+ ['demonstrate' '929']
+ ['endorse' '8']
+ ['evidence' '28']
+ ['exhibit' '168']
+ ['licence' '2']
+ ['license' '67']
+ ['manifest' '19']
+ ['prove' '152']
+ ['show' '2186']
+ ['try' '5']]","['attest' 'certify' 'demonstrate' 'endorse' 'evidence' 'exhibit' 'licence'
+ 'license' 'manifest' 'prove' 'show' 'try']"
+92,92,attract,['draw' 'attract' 'pull_in' 'pull' 'appeal' 'draw_in'],[['attract' '7']],['attract']
+93,93,augment,['augment'],[['augment' '21']],['augment']
+94,94,make,"['let_go' 'get' 'substantiate' 'cultivate' 'throw_off' 'put_out' 'empty'
+ 'piddle' 'make_believe' 'score' 'elucidate' 'lay_down' 'shape' 'subside'
+ 'disappear' 'touch' 'recognise' 'root' 'mold' 'endue' 'accrue' 'expel'
+ 'attain' 'square_up' 'slay' 'liberate' 'dangle' 'vanish' 'take_root'
+ 'sort_out' 'reverse' 'gain' 'fall_down' 'wee' 'pass_on' 'deform' 'light'
+ 'bump_off' 'tiller' 'do' 'muster_out' 'go_under' 'give' 'exhaust' 'shit'
+ 'dominate' 'actualize' 'devolve' 'advance' 'transfer' 'exercise' 'sink'
+ 'exculpate' 'authorize' 'mould' 'reconcile' 'vest' 'omit' 'realize'
+ 'play' 'nail_down' 'ignore' 'make_water' 'fix' 'strain' 'run' 'operate'
+ 'take_a_crap' 'exclude' 'cast' 'lose' 'reach_out' 'move_out' 'cook'
+ 'solve' 'take_a_leak' 'fly' 'resolve' 'pull_ahead' 'eject' 'look_across'
+ 'release' 'call_on' 'pull_in' 'do_work' 'finalise' 'recognize' 'wreak'
+ 'determine' 'induct' 'cause' 'form' 'shine' 'adjudicate' 'expend' 'swing'
+ 'commit' 'make_headway' 'empower' 'profit' 'run_into' 'turn' 'plough'
+ 'crystalise' 'illume' 'get_to' 'take_away' 'exonerate' 'produce'
+ 'illumine' 'bring' 'ca-ca' 'lessen' 'fall' 'murder' 'forge' 'clarify'
+ 'square_off' 'unblock' 'spill' 'spend' 'name' 'establish' 'get_rid_of'
+ 'off' 'wrench' 'micturate' 'exploit' 'dispatch' 'place' 'sour' 'wrick'
+ 'stimulate' 'go' 'overlook' 'decrease' 'become' 'knock_off' 'act_upon'
+ 'acquire' 'agnize' 'straighten_out' 'make_up' 'grow' 'dismiss' 'finalize'
+ 'complete' 'conciliate' 'defecate' 'sprain' 'put_down' 'take_a_shit'
+ 'shake_off' 'invest' 'tally' 'put_to_work' 'benefit' 'understand'
+ 'drop_off' 'sack_up' 'crap' 'take' 'stumble' 'leave_out'
+ 'change_by_reversal' 'process' 'diminish' 'realise' 'make' 'pour_forth'
+ 'strike_down' 'create' 'lack' 'strike' 'acquit' 'drop' 'nominate'
+ 'go_off' 'seduce' 'function' 'overleap' 'exuviate' 'neglect'
+ 'move_around' 'gather' 'cut_down' 'fire' 'hold' 'cast_off' 'assoil'
+ 'unloosen' 'figure_out' 'degenerate' 'collide_with' 'gain_ground'
+ 'clear_up' 'deteriorate' 'take_in' 'flow' 'moult' 'except' 'let_go_of'
+ 'come' 'steady_down' 'fail' 'drop_down' 'flex' 'urinate' 'construct'
+ 'rick' 'brighten' 'descend' 'come_down' 'get_through' 'precipitate'
+ 'puzzle_out' 'get_ahead' 'disregard' 'plow' 'pretermit' 'free' 'unload'
+ 'vaporize' 'earn' 'strive' 'take_out' 'constitute' 'escape' 'unclutter'
+ 'throw' 'set_down' 'gift' 'fell' 'give_up' 'put' 'withdraw' 'go_down'
+ 'locate' 'agnise' 'crystallise' 'leave_off' 'loose' 'dribble' 'pee'
+ 'build' 'overtop' 'relieve_oneself' 'indue' 'actualise' 'pass' 'ready'
+ 'wee-wee' 'see' 'enthrone' 'resign' 'relinquish' 'unlade' 'molt'
+ 'achieve' 'twist' 'shoot' 'work_on' 'look_out_on' 'turn_over' 'make_for'
+ 'hand' 'bring_in' 'influence' 'slough' 'polish_off' 'crystalize'
+ 'accomplish' 'crystallize' 'clothe' 'absent' 'extend_to' 'work' 'ferment'
+ 'sack' 'change_state' 'light_up' 'derive' 'flatten' 'get_hold_of' 'pip'
+ 'get_back' 'pee-pee' 'settle' 'rack_up' 'authorise' 'discharge'
+ 'ensconce' 'secrete' 'unloose' 'hang' 'spend_a_penny' 'send_away'
+ 'pass_water' 'endow' 'reach' 'dower' 'clear' 'piss' 'drip' 'offload'
+ 'impinge_on' 'lick' 'act' 'arrive_at' 'progress_to' 'return' 'hit'
+ 'illuminate' 'seat' 'knead' 'shed' 'put_on' 'decide' 'stool' 'draw'
+ 'unfreeze' 'net' 'induce' 'adorn' 'throw_away' 'go_away' 'bring_out'
+ 'command' 'crop' 'remove' 'come_to' 'pretend' 'contact' 'win' 'have'
+ 'disgorge' 'look_out_over' 'work_out' 'publish' 'shed_light_on'
+ 'settle_down' 'bend' 'miss' 'patch_up' 'prepare' 'issue' 'enlighten'
+ 'puddle' 'send_packing' 'top']","[['authorise' '4']
+ ['authorize' '104']
+ ['clear' '20']
+ ['discharge' '120']
+ ['drop' '44']
+ ['elucidate' '8']
+ ['empower' '1']
+ ['endow' '5']
+ ['fell' '23']
+ ['gain' '18']
+ ['hit' '30']
+ ['illuminate' '3']
+ ['invest' '4']
+ ['make' '287']
+ ['miss' '69']
+ ['neglect' '5']
+ ['omit' '2']
+ ['overlook' '7']
+ ['reach' '250']
+ ['realise' '1']
+ ['realize' '7']
+ ['release' '21']
+ ['remove' '10']
+ ['secrete' '65']
+ ['settle' '2']
+ ['shed' '111']
+ ['slough' '1']
+ ['solve' '4']
+ ['spend' '8']
+ ['stool' '9']
+ ['subside' '6']
+ ['turn' '24']
+ ['unload' '2']
+ ['vanish' '5']
+ ['work' '97']]","['authorise' 'authorize' 'clear' 'discharge' 'drop' 'elucidate' 'empower'
+ 'endow' 'fell' 'gain' 'hit' 'illuminate' 'invest' 'make' 'miss' 'neglect'
+ 'omit' 'overlook' 'reach' 'realise' 'realize' 'release' 'remove'
+ 'secrete' 'settle' 'shed' 'slough' 'solve' 'spend' 'stool' 'subside'
+ 'turn' 'unload' 'vanish' 'work']"
+95,95,automate,['automate' 'automatise' 'automatize'],[['automate' '58']],['automate']
+96,96,average,['average_out' 'average'],[['average' '12']],['average']
+97,97,avoid,"['ward_off' 'keep_off' 'quash' 'negate' 'head_off' 'annul' 'neutralise'
+ 'neutralize' 'nullify' 'debar' 'invalidate' 'turn_away' 'forefend'
+ 'avert' 'fend_off' 'forfend' 'obviate' 'deflect' 'void' 'avoid' 'rid_of'
+ 'stave_off' 'eliminate']","[['avert' '17']
+ ['avoid' '95']
+ ['nullify' '1']
+ ['obviate' '1']]",['avert' 'avoid' 'nullify' 'obviate']
+98,98,await,['await' 'look' 'expect' 'wait'],[['await' '19']],['await']
+99,99,award,['present' 'award' 'grant'],[['award' '1']],['award']
+100,100,balance,['equilibrate' 'equilibrise' 'poise' 'equilibrize' 'brace' 'balance'],"[['balance' '22']
+ ['poise' '1']]",['balance' 'poise']
+101,101,rely,"['wedge' 'lodge' 'fix' 'posit' 'bank' 'deposit' 'situate' 'swear' 'stick'
+ 'rely' 'trust']","[['bank' '3']
+ ['deposit' '1']
+ ['rely' '31']]",['bank' 'deposit' 'rely']
+102,102,base,['found' 'free-base' 'base' 'establish' 'ground'],[['base' '1801']],['base']
+103,103,combat,['battle' 'combat'],"[['battle' '2']
+ ['combat' '15']]",['battle' 'combat']
+104,104,become,['turn' 'suit' 'become' 'go' 'get'],[['become' '336']],['become']
+105,105,know,"['cognize' 'bang' 'have_it_off' 'bed' 'know' 'sleep_together'
+ 'acknowledge' 'bonk' 'recognize' 'sleep_with' 'be_intimate' 'hump'
+ 'retire' 'sack_out' 'cognise' 'make_out' 'eff' 'have_a_go_at_it'
+ 'go_to_sleep' 'go_to_bed' 'have_intercourse' 'do_it' 'roll_in_the_hay'
+ 'have_sex' 'hit_the_sack' 'live' 'fuck' 'turn_in' 'make_love' 'screw'
+ 'hit_the_hay' 'have_it_away' 'lie_with' 'kip_down' 'recognise' 'get_laid'
+ 'jazz' 'crawl_in' 'love' 'experience' 'get_it_on']","[['bed' '2']
+ ['know' '442']]",['bed' 'know']
+106,106,start,"['lead_off' 'start_out' 'get' 'bulge' 'set_forth' 'depart' 'set_off'
+ 'protrude' 'part' 'go' 'commence' 'bug_out' 'begin' 'get_going' 'start'
+ 'start_up' 'bulge_out' 'take_up' 'originate' 'initiate' 'embark_on'
+ 'come_out' 'startle' 'set_about' 'get_down' 'jump' 'pop_out' 'take_off'
+ 'pop' 'set_out']","[['begin' '171']
+ ['commence' '14']
+ ['start' '252']]",['begin' 'commence' 'start']
+107,107,consider,"['argue' 'reckon' 'deliberate' 'gestate' 'look_at' 'conceive' 'turn_over'
+ 'contend' 'think' 'deal' 'involve' 'consider' 'affect' 'take' 'fence'
+ 'study' 'conceptualise' 'weigh' 'count' 'debate' 'view' 'regard'
+ 'believe' 'see' 'trust' 'moot' 'conceptualize']","[['believe' '22']
+ ['conceive' '1']
+ ['consider' '624']
+ ['debate' '5']
+ ['regard' '442']]",['believe' 'conceive' 'consider' 'debate' 'regard']
+108,108,belong,['belong_to' 'belong' 'go'],[['belong' '66']],['belong']
+109,109,benefit,['gain' 'profit' 'benefit' 'do_good'],[['benefit' '61']],['benefit']
+110,110,beware,['mind' 'beware'],[['beware' '1']],['beware']
+111,111,bias,['bias' 'predetermine'],"[['bias' '4']
+ ['predetermine' '2']]",['bias' 'predetermine']
+112,112,biodegrade,['biodegrade'],[['biodegrade' '2']],['biodegrade']
+113,113,burn,"['burn_off' 'burn' 'glow' 'combust' 'burn_down' 'sunburn' 'cut'
+ 'seize_with_teeth' 'sting' 'cauterize' 'stick' 'cauterise' 'burn_up'
+ 'bite' 'prick' 'incinerate' 'twinge' 'fire']","[['bite' '4']
+ ['burn' '8']
+ ['sting' '2']]",['bite' 'burn' 'sting']
+114,114,bleed,"['run' 'leech' 'hemorrhage' 'bleed' 'phlebotomize' 'shed_blood'
+ 'phlebotomise']","[['bleed' '36']
+ ['phlebotomize' '1']]",['bleed' 'phlebotomize']
+115,115,bless,['sign' 'bless' 'sanctify' 'hallow' 'consecrate'],[['bless' '1']],['bless']
+116,116,blind,['dim' 'blind'],[['blind' '72']],['blind']
+117,117,blister,['scald' 'blister' 'whip' 'vesicate'],[['blister' '1']],['blister']
+118,118,block,"['parry' 'arrest' 'choke_up' 'immobilise' 'block_off' 'stanch' 'stuff'
+ 'jam' 'set_aside' 'halt' 'debar' 'block_up' 'staunch' 'freeze' 'stop'
+ 'blank_out' 'stem' 'blockade' 'immobilize' 'kibosh' 'obturate' 'impede'
+ 'pin' 'block' 'stymie' 'stymy' 'seal_off' 'freeze_out' 'lug' 'stop_dead'
+ 'handicap' 'trap' 'close_up' 'hold' 'deflect' 'bar' 'suspend' 'forget'
+ 'occlude' 'embarrass' 'hamper' 'hinder' 'barricade' 'obstruct'
+ 'freeze_down' 'draw_a_blank']","[['block' '54']
+ ['blockade' '3']
+ ['freeze' '3']
+ ['halt' '4']
+ ['hinder' '10']
+ ['immobilize' '4']
+ ['impede' '10']
+ ['stem' '8']
+ ['suspend' '5']]","['block' 'blockade' 'freeze' 'halt' 'hinder' 'immobilize' 'impede' 'stem'
+ 'suspend']"
+119,119,blot,['spot' 'blob' 'fleck' 'blot'],[['blot' '4']],['blot']
+120,120,range,"['bollix' 'flourish' 'louse_up' 'fumble' 'turn_over' 'wander' 'browse'
+ 'seethe' 'bluster' 'undulate' 'botch' 'tout' 'swim' 'burn_out' 'curl'
+ 'blow_out' 'array' 'shoot_a_line' 'beckon' 'pluck' 'tramp' 'brandish'
+ 'twine' 'shove_off' 'squander' 'revolve' 'gasconade' 'waste' 'be_adrift'
+ 'muck_up' 'wrap' 'foul_up' 'roam' 'err' 'straddle' 'stray' 'suck'
+ 'outrank' 'mess_up' 'vagabond' 'value' 'bobble' 'swash' 'grade' 'wind'
+ 'roll_out' 'place' 'shove_along' 'bollocks_up' 'float' 'flub' 'drift'
+ 'fluff' 'pasture' 'screw_up' 'graze' 'ramble' 'hustle' 'rank' 'wave'
+ 'brag' 'roll' 'bungle' 'wheel' 'fuck_up' 'bodge' 'rove' 'rate' 'flap'
+ 'set_out' 'range' 'fellate' 'ball_up' 'go_down_on' 'bollix_up' 'gas'
+ 'spoil' 'swan' 'run' 'crop' 'mishandle' 'botch_up' 'vaunt' 'boast'
+ 'roll_up' 'blow' 'bollocks' 'cast' 'freewheel' 'bumble' 'muff' 'order'
+ 'lay_out']","[['blow' '4']
+ ['drift' '4']
+ ['float' '1']
+ ['range' '379']
+ ['rank' '7']
+ ['rate' '1']
+ ['roam' '1']
+ ['roll' '21']
+ ['wave' '8']]",['blow' 'drift' 'float' 'range' 'rank' 'rate' 'roam' 'roll' 'wave']
+121,121,blunt,['numb' 'deaden' 'dull' 'blunt' 'benumb'],[['blunt' '27']],['blunt']
+122,122,blur,"['confuse' 'blur' 'obscure' 'smear' 'dim' 'blear' 'glaze_over'
+ 'obnubilate' 'slur' 'smudge' 'film_over' 'smutch']","[['blur' '2']
+ ['slur' '1']]",['blur' 'slur']
+123,123,predict,"['promise' 'foretell' 'reckon' 'anticipate' 'auspicate' 'betoken'
+ 'presage' 'bode' 'calculate' 'portend' 'forebode' 'omen' 'predict'
+ 'prefigure' 'estimate' 'count_on' 'call' 'foreshadow' 'forecast' 'figure'
+ 'augur' 'prognosticate']","[['bode' '1']
+ ['forecast' '1']
+ ['portend' '2']
+ ['predict' '286']
+ ['presage' '1']]",['bode' 'forecast' 'portend' 'predict' 'presage']
+124,124,bolster,['bolster' 'bolster_up' 'pad'],[['bolster' '1']],['bolster']
+125,125,border,"['surround' 'inch' 'butt' 'march' 'edge' 'skirt' 'frame' 'frame_in'
+ 'butt_against' 'ring' 'border' 'butt_on' 'adjoin' 'environ' 'abut'
+ 'bound']","[['border' '1']
+ ['edge' '1']]",['border' 'edge']
+126,126,receive,"['get' 'take_heed' 'find_out' 'soften' 'watch' 'come_about' 'bechance'
+ 'bring_up' 'fork' 'concede' 'break_out' 'commemorate' 'dissever' 'recite'
+ 'break_down' 'attain' 'submit' 'let_out' 'secern' 'divide' 'register'
+ 'unwrap' 'part' 'transgress' 'cross-file' 'go_bad' 'fall_out' 'present'
+ 'sort_out' 'dampen' 'key' 'go_against' 'pause' 'split' 'pass_on'
+ 'generate' 'sympathise' 'discontinue' 'get_a_line' 'give' 'sympathize'
+ 'cream' 'run_down' 'impart' 'describe' 'kick_in' 'memorialise' 'realize'
+ 'file' 'enjoin' 'assure' 'founder' 'fracture' 'happen' 'ease_up' 'skip'
+ 'collapse' 'con' 'differentiate' 'skim' 'give_way' 'endanger' 'conk_out'
+ 'state' 'fall_upon' 'buckle_under' 'break_open' 'disunite' 'observe'
+ 'bankrupt' 'determine' 'go_on' 'peril' 'happen_upon' 'grant' 'refer'
+ 'stop' 'memorize' 'unveil' 'study' 'expose' 'dedicate' 'commit' 'erupt'
+ 'skitter' 'rule' 'get_word' 'call' 'uncover' 'line_up' 'obtain'
+ 'skim_off' 'hap' 'open' 'break_up' 'name' 'establish' 'skim_over'
+ 'severalise' 'stifle' 'render' 'discriminate' 'interrupt' 'recoup'
+ 'witness' 'cede' 'check' 'severalize' 'recount' 'split_up' 'cave_in'
+ 'place' 'display' 'go' 'empathize' 'break' 'notice' 'glance_over'
+ 'acquire' 'meet' 'infer' 'demote' 'cleave' 'screen' 'wash_out' 'put_down'
+ 'yield' 'materialize' 'move_over' 'debunk' 'get_hold' 'understand'
+ 'wear_out' 'come_apart' 'take' 'make' 'realise' 'chip_in' 'strike'
+ 'tell_apart' 'get_around' 'scupper' 'separate' 'exhibit' 'nominate'
+ 'classify' 'take_place' 'mention' 'carve_up' 'scan' 'relent' 'queer'
+ 'give_in' 'recuperate' 'hold' 'instruct' 'succumb' 'break_off' 'violate'
+ 'offend' 'infract' 'advert' 'break-dance' 'incur' 'rive' 'enter'
+ 'knuckle_under' 'cite' 'take_in' 'hear' 'better' 'afford' 'list' 'come'
+ 'detect' 'sacrifice' 'fail' 'get_out' 'wash_off' 'bar' 'break_dance'
+ 'occur' 'distinguish' 'try' 'sort' 'single_out' 'tell' 'come_up' 'pay'
+ 'discover' 'convalesce' 'give_away' 'pass_off' 'retrieve' 'divulge'
+ 'evidence' 'befall' 'constitute' 'throw' 'wash_away' 'gift' 'show'
+ 'apply' 'pick_up' 'die' 'bust' 'rinse' 'translate' 'tape' 'narrate'
+ 'leave' 'ruin' 'feed' 'dull' 'memorise' 'develop' 'break_in' 'chance'
+ 'get_wind' 'snap_off' 'pass' 'intermit' 'mute' 'see' 'wash' 'empathise'
+ 'screen_out' 'reveal' 'recover' 'lave' 'breach' 'turn_over'
+ 'kick_downstairs' 'memorialize' 'hand' 'class' 'cream_off' 'disclose'
+ 'ascertain' 'branch' 'tone_down' 'hesitate' 'secernate' 'regain'
+ 'find_oneself' 'devote' 'diagnose' 'transform' 'larn' 'learn' 'rake'
+ 'moisten' 'bear' 'fall_in' 'let_on' 'encounter' 'come_across' 'key_out'
+ 'interpret' 'launder' 'find' 'assort' 'read' 'identify' 'listen'
+ 'experience' 'chance_upon' 'go_back' 'wear' 'say' 'furcate' 'ramify'
+ 'reach' 'come_upon' 'smash' 'weaken' 'give_out' 'chance_on' 'banish'
+ 'immortalize' 'return' 'immortalise' 'appoint' 'deaden' 'record' 'crack'
+ 'relegate' 'bump' 'recrudesce' 'plane' 'contribute' 'materialise'
+ 'light_upon' 'sieve' 'bring_out' 'lap' 'fall_apart' 'break_away'
+ 'consecrate' 'welcome' 'invite' 'have' 'teach' 'feel' 'burst' 'damp'
+ 'reclaim' 'muffle' 'order' 'receive']","[['break' '8']
+ ['dampen' '19']
+ ['disclose' '20']
+ ['discover' '13']
+ ['expose' '203']
+ ['find' '1156']
+ ['fracture' '4']
+ ['give' '477']
+ ['happen' '8']
+ ['hear' '2']
+ ['identify' '1376']
+ ['learn' '36']
+ ['materialize' '1']
+ ['name' '23']
+ ['occur' '842']
+ ['pause' '3']
+ ['read' '12']
+ ['receive' '3262']
+ ['record' '205']
+ ['recover' '482']
+ ['regain' '3']
+ ['register' '198']
+ ['relegate' '1']
+ ['reveal' '409']
+ ['sacrifice' '1']
+ ['scan' '6']
+ ['separate' '33']
+ ['skim' '2']
+ ['sort' '1']
+ ['split' '15']
+ ['teach' '5']
+ ['tell' '3']
+ ['translate' '21']
+ ['uncover' '9']
+ ['understand' '502']
+ ['unveil' '2']
+ ['wash' '3']
+ ['welcome' '3']
+ ['witness' '3']
+ ['yield' '70']]","['break' 'dampen' 'disclose' 'discover' 'expose' 'find' 'fracture' 'give'
+ 'happen' 'hear' 'identify' 'learn' 'materialize' 'name' 'occur' 'pause'
+ 'read' 'receive' 'record' 'recover' 'regain' 'register' 'relegate'
+ 'reveal' 'sacrifice' 'scan' 'separate' 'skim' 'sort' 'split' 'teach'
+ 'tell' 'translate' 'uncover' 'understand' 'unveil' 'wash' 'welcome'
+ 'witness' 'yield']"
+127,127,lactate,"['give_suck' 'hold' 'harbour' 'suck' 'entertain' 'suckle' 'nurse'
+ 'breastfeed' 'harbor' 'wet-nurse' 'lactate']","[['breastfeed' '47']
+ ['lactate' '84']
+ ['nurse' '1']
+ ['suckle' '3']]",['breastfeed' 'lactate' 'nurse' 'suckle']
+128,128,rest,"['lie' 'stay' 'take_a_breath' 'breathe' 'pillow' 'suspire' 'rest'
+ 'take_a_breather' 'pass_off' 'respire' 'reside' 'repose' 'perch'
+ '""catch_ones_breath""' 'roost' 'remain' 'emit']","[['breathe' '6']
+ ['rest' '11']]",['breathe' 'rest']
+129,129,breed,['cover' 'multiply' 'spawn' 'breed' 'engender'],[['breed' '7']],['breed']
+130,130,bridge,['bridge' 'bridge_over'],[['bridge' '2']],['bridge']
+131,131,broaden,['branch_out' 'extend' 'diversify' 'radiate' 'broaden' 'widen'],"[['broaden' '10']
+ ['diversify' '1']]",['broaden' 'diversify']
+132,132,bruise,['bruise' 'spite' 'wound' 'injure' 'hurt' 'offend' 'contuse'],"[['bruise' '3']
+ ['injure' '1']]",['bruise' 'injure']
+133,133,bud,['bud'],[['bud' '1']],['bud']
+134,134,buffer,['cushion' 'soften' 'buffer'],[['buffer' '2']],['buffer']
+135,135,construct,"['work_up' 'progress' 'retrace' 'construct' 'ramp_up' 'make' 'build_up'
+ 'build' 'manufacture' 'reconstruct' 'make_up' 'fabricate' 'invent'
+ 'establish' 'cook_up']","[['build' '24']
+ ['construct' '26']
+ ['fabricate' '1']
+ ['manufacture' '16']]",['build' 'construct' 'fabricate' 'manufacture']
+136,136,weight,"['burthen' 'burden' 'charge' 'slant' 'saddle' 'angle' 'weight_down'
+ 'weight']","[['burden' '1']
+ ['weight' '44']]",['burden' 'weight']
+137,137,burgeon,['burgeon'],[['burgeon' '1']],['burgeon']
+138,138,bypass,['go_around' 'get_around' 'bypass' 'short-circuit'],[['bypass' '2']],['bypass']
+139,139,calibrate,['calibrate' 'fine-tune' 'graduate'],[['calibrate' '20']],['calibrate']
+140,140,calve,['calve' 'break_up' 'have_young'],[['calve' '3']],['calve']
+141,141,react,"['take_the_field' 'pit' 'contradict' 'play_off' 'run' 'controvert'
+ 'contend' 'press' 'crusade' 'struggle' 'react' 'fight_back' 'agitate'
+ 'defend' 'push' 'match' 'counterbalance' 'oppose' 'respond' 'fight_down'
+ 'campaign' 'fight']","[['campaign' '1']
+ ['fight' '13']
+ ['oppose' '1']
+ ['react' '21']]",['campaign' 'fight' 'oppose' 'react']
+142,142,delete,"['blue-pencil' 'scratch' 'erase' 'invalidate' 'cancel' 'edit' 'set_off'
+ 'call_off' 'strike_down' 'delete' 'offset' 'countervail' 'scrub']","[['cancel' '1']
+ ['delete' '2']
+ ['offset' '2']]",['cancel' 'delete' 'offset']
+143,143,capitalize,['take_advantage' 'capitalise' 'capitalize'],[['capitalize' '1']],['capitalize']
+144,144,care,"['worry' 'handle' 'manage' 'care' 'give_care' 'wish_well' 'deal' 'like'
+ 'wish' 'bid']","[['care' '10']
+ ['like' '8']
+ ['wish' '1']]",['care' 'like' 'wish']
+145,145,catalogue,['catalogue' 'catalog'],[['catalogue' '1']],['catalogue']
+146,146,categorize,['categorize' 'categorise'],"[['categorise' '5']
+ ['categorize' '35']]",['categorise' 'categorize']
+147,147,cause,['induce' 'have' 'get' 'stimulate' 'cause' 'do' 'make'],[['cause' '856']],['cause']
+148,148,stop,"['drop_by_the_wayside' 'relinquish' 'resign' 'hold_back' 'arrest' 'check'
+ 'chuck_up_the_sponge' 'discontinue' 'turn_back' 'depart' 'block_off'
+ 'eat_up' 'halt' 'leave_office' 'block_up' 'break' 'foreswear' 'stop'
+ 'cease' 'end_up' 'blockade' 'quit' 'kibosh' 'throw_in' 'intercept'
+ 'block' 'polish_off' 'wind_up' 'land_up' 'fetch_up' 'step_down' 'contain'
+ 'drop_out' 'throw_in_the_towel' 'stop_over' 'complete' 'bar' 'renounce'
+ 'fall_by_the_wayside' 'break_off' 'hold_on' 'take_leave' 'lay_off'
+ 'finish_up' 'barricade' 'terminate' 'end' 'give_up' 'finish']","[['cease' '1']
+ ['discontinue' '25']
+ ['end' '26']
+ ['finish' '3']
+ ['quit' '1']
+ ['stop' '27']]",['cease' 'discontinue' 'end' 'finish' 'quit' 'stop']
+149,149,censor,['censor' 'ban'],[['censor' '6']],['censor']
+150,150,focus,"['digest' 'contract' 'sharpen' 'focalize' 'revolve_around' 'center_on'
+ 'distil' 'decoct' 'condense' 'concentrate' 'centralize' 'focus' 'distill'
+ 'boil_down' 'center' 'extract' 'concenter' 'focus_on' 'focalise'
+ 'concentre' 'centre' 'revolve_about' 'reduce' 'rivet' 'pore'
+ 'concentrate_on' 'centralise']","[['center' '4']
+ ['centre' '4']
+ ['concentrate' '10']
+ ['condense' '1']
+ ['distil' '2']
+ ['focus' '114']]",['center' 'centre' 'concentrate' 'condense' 'distil' 'focus']
+151,151,centrifuge,['centrifuge' 'centrifugate'],[['centrifuge' '2']],['centrifuge']
+152,152,chain,['chain'],[['chain' '3']],['chain']
+153,153,chair,['chair' 'lead' 'moderate' 'chairman'],[['chair' '1']],['chair']
+154,154,challenge,['take_exception' 'dispute' 'gainsay' 'challenge'],[['challenge' '146']],['challenge']
+155,155,characterize,['characterise' 'characterize' 'qualify'],"[['characterise' '32']
+ ['characterize' '298']]",['characterise' 'characterize']
+156,156,cheek,['cheek'],[['cheek' '2']],['cheek']
+157,157,cool,['cool_down' 'chill' 'cool' 'cool_off'],"[['chill' '1']
+ ['cool' '2']]",['chill' 'cool']
+158,158,select,['opt' 'pick_out' 'select' 'favour' 'favor' 'choose' 'prefer' 'take'],"[['choose' '25']
+ ['prefer' '18']
+ ['select' '196']]",['choose' 'prefer' 'select']
+159,159,circulate,"['fritter_away' 'shoot' 'dot' 'disperse' 'dispel' 'flash' 'circle' 'click'
+ 'sprout' 'summon' 'dissipate' 'dart' 'shoot_down' 'buck' 'fritter'
+ 'mobilise' 'scoot' 'circularise' 'go_around' 'charge' 'fathom' 'blast'
+ 'frivol_away' 'film' 'distribute' 'tear' 'riddle' 'pass_around'
+ 'sprinkle' 'interpenetrate' 'spud' 'open' 'burgeon_forth' 'pip'
+ 'break_up' 'germinate' 'come_home' 'photograph' 'snap' 'infiltrate'
+ 'pass_on' 'call_up' 'get_through' 'pullulate' 'scatter' 'circularize'
+ 'penetrate' 'dawn' 'dash' 'hit' 'spread' 'marshal' 'spread_out' 'imbue'
+ 'sink_in' 'fool_away' 'bottom' 'diffuse' 'broadcast' 'inject' 'fan_out'
+ 'bourgeon' 'fool' 'mobilize' 'unfold' 'propagate' 'circulate' 'rally'
+ 'perforate' 'take' 'fall_into_place' 'dust' 'get_across' 'overspread'
+ 'permeate' 'pervade' 'scud' 'disseminate']","[['circulate' '333']
+ ['diffuse' '2']
+ ['disperse' '2']
+ ['disseminate' '39']
+ ['dissipate' '1']
+ ['mobilize' '5']
+ ['penetrate' '5']
+ ['scatter' '4']
+ ['shoot' '36']
+ ['spread' '240']]","['circulate' 'diffuse' 'disperse' 'disseminate' 'dissipate' 'mobilize'
+ 'penetrate' 'scatter' 'shoot' 'spread']"
+160,160,mention,"['summon' 'reference' 'quote' 'cite' 'summons' 'advert' 'refer' 'bring_up'
+ 'mention' 'observe' 'adduce' 'abduce' 'name' 'note' 'remark']","[['cite' '9']
+ ['mention' '13']
+ ['reference' '2']]",['cite' 'mention' 'reference']
+161,161,citrate,['citrate'],[['citrate' '1']],['citrate']
+162,162,claim,['claim' 'lay_claim' 'exact' 'take' 'arrogate'],[['claim' '18']],['claim']
+163,163,clarify,['elucidate' 'clarify' 'clear_up'],[['clarify' '31']],['clarify']
+164,164,classify,['relegate' 'classify' 'separate' 'sort_out' 'class' 'assort' 'sort'],[['classify' '83']],['classify']
+165,165,clean,"['nibble' 'strip' 'make_clean' 'blame' 'houseclean' 'pluck' 'scavenge'
+ 'plunk' 'pick' 'peck' 'clean' 'break_up' 'find_fault' 'piece' 'beak'
+ 'cull' 'clean_house' 'cleanse' 'foot']","[['clean' '3']
+ ['pick' '2']]",['clean' 'pick']
+166,166,cloister,['cloister'],[['cloister' '1']],['cloister']
+167,167,clone,['clone'],[['clone' '1']],['clone']
+168,168,fold,"['close_up' 'reason' 'come_together' 'fill_up' 'argue' 'conclude' 'shut'
+ 'shut_down' 'turn_up' 'resolve' 'pen_up' 'reason_out' 'fold' 'close'
+ 'close_down' 'fold_up']","[['close' '8']
+ ['conclude' '78']
+ ['fold' '211']
+ ['reason' '1']]",['close' 'conclude' 'fold' 'reason']
+169,169,clot,['clot' 'clabber' 'coagulate' 'clog' 'curdle'],[['clot' '9']],['clot']
+170,170,cluster,['constellate' 'flock' 'cluster' 'bunch' 'bunch_up' 'bundle' 'clump'],[['cluster' '32']],['cluster']
+171,171,coat,['surface' 'coat' 'cake'],[['coat' '18']],['coat']
+172,172,cocoon,['cocoon'],[['cocoon' '2']],['cocoon']
+173,173,cod,"['rag' 'chide' 'twit' 'nettle' 'berate' 'gravel' 'torment'
+ 'call_on_the_carpet' 'get_at' 'reproof' 'jaw' 'remonstrate'
+ 'take_to_task' 'lambaste' 'frustrate' 'annoy' 'reprimand' 'irritate'
+ 'fool' 'take_in' 'cod' 'devil' 'tantalise' 'lambast' 'trounce' 'dun'
+ 'chew_up' 'befool' 'rally' 'bother' 'rile' 'nark' 'rebuke' 'chew_out'
+ 'tantalize' 'gull' 'put_one_across' 'bawl_out' 'scold' 'razz' 'lecture'
+ 'crucify' 'bedevil' 'taunt' 'dupe' 'slang' 'put_one_over' 'put_on'
+ 'call_down' 'chafe' 'tease' 'dress_down' 'ride' 'have_words' 'get_to'
+ 'vex' 'bait']","[['cod' '16']
+ ['rag' '6']]",['cod' 'rag']
+174,174,coexist,['coexist'],[['coexist' '4']],['coexist']
+175,175,cohabit,['shack_up' 'live_together' 'cohabit'],[['cohabit' '1']],['cohabit']
+176,176,coin,['mint' 'strike' 'coin'],[['coin' '1']],['coin']
+177,177,coincide,['coincide' 'cooccur' 'concur' 'co-occur'],[['coincide' '17']],['coincide']
+178,178,collaborate,['collaborate' 'cooperate' 'get_together' 'join_forces'],[['collaborate' '4']],['collaborate']
+179,179,collate,['collate'],[['collate' '11']],['collate']
+180,180,colonize,['colonize' 'colonise'],[['colonize' '4']],['colonize']
+181,181,color,"['colourize' 'colourise' 'discolour' 'distort' 'color' 'gloss' 'colorise'
+ 'colour_in' 'emblazon' 'discolor' 'color_in' 'tinge' 'colorize' 'colour']",[['color' '1']],['color']
+182,182,market,['commercialise' 'market' 'commercialize'],"[['commercialize' '2']
+ ['market' '10']]",['commercialize' 'market']
+183,183,communicate,"['commune' 'pass_along' 'communicate' 'transmit' 'convey'
+ 'intercommunicate' 'pass_on' 'put_across' 'pass']",[['communicate' '3']],['communicate']
+184,184,compare,['compare' 'equate' 'liken'],[['compare' '3159']],['compare']
+185,185,compart,['compart'],[['compart' '1']],['compart']
+186,186,compartmentalize,['compartmentalise' 'cut_up' 'compartmentalize'],[['compartmentalize' '1']],['compartmentalize']
+187,187,decline,"['spurn' 'chasten' 'pooh-pooh' 'correct' 'winnow_out' 'worsen' 'turn_down'
+ 'resist' 'even_out' 'go_down' 'refuse' 'recompense' 'pay' 'pass_up'
+ 'right' 'defy' 'redress' 'rule_out' 'compensate' 'disapprove' 'chastise'
+ 'scorn' 'rectify' 'turn_away' 'deny' 'remunerate' 'slump' 'decline'
+ 'repair' 'adjust' 'make_up' 'objurgate' 'sort_out' 'even_off' 'cover'
+ 'overcompensate' 'castigate' 'counterbalance' 'wane' 'disdain' 'reject'
+ 'pay_off' 'indemnify' 'discipline' 'set' 'even_up' 'freeze_off'
+ 'eliminate']","[['compensate' '11']
+ ['correct' '26']
+ ['decline' '250']
+ ['refuse' '12']
+ ['reject' '8']
+ ['wane' '10']]",['compensate' 'correct' 'decline' 'refuse' 'reject' 'wane']
+188,188,compete,['contend' 'vie' 'compete'],[['compete' '28']],['compete']
+189,189,complain,['plain' 'quetch' 'kvetch' 'kick' 'sound_off' 'complain'],[['complain' '22']],['complain']
+190,190,complement,['complement'],[['complement' '6']],['complement']
+191,191,complete,"['complete' 'finish' 'nail' 'make_out' 'fill_out' 'discharge' 'dispatch'
+ 'fill_in']",[['complete' '273']],['complete']
+192,192,expand,"['magnify' 'fine-tune' 'blow_up' 'perplex' 'complicate' 'dilate'
+ 'lucubrate' 'expound' 'inflate' 'flourish' 'amplify' 'expatiate'
+ 'enlarge' 'rectify' 'boom' 'rarify' 'exposit' 'thrive' 'refine' 'down'
+ 'polish' 'expand' 'work_out' 'elaborate' 'extend' 'spread_out'
+ 'flesh_out']","[['complicate' '8']
+ ['elaborate' '4']
+ ['enlarge' '19']
+ ['expand' '95']
+ ['refine' '2']]",['complicate' 'elaborate' 'enlarge' 'expand' 'refine']
+193,193,comply,['follow' 'comply' 'abide_by'],[['comply' '6']],['comply']
+194,194,perceive,"['compass' 'get_the_picture' 'savvy' 'perceive' 'grok' 'grasp' 'dig'
+ 'encompass' 'apprehend' 'comprehend' 'cover' 'embrace']","[['comprehend' '1']
+ ['perceive' '30']]",['comprehend' 'perceive']
+195,195,establish,"['lie' 'get' 'populate' 'brood' 'nominate' 'observe' 'recover' 'determine'
+ 'imprint' 'find_out' 'form' 'launch' 'lay_down' 'shape' 'set_up'
+ 'ascertain' 'influence' 'mildew' 'contain' 'harp' 'spring' 'mold'
+ 'regain' 'find_oneself' 'rule' 'institute' 'work' 'take_shape' 'consist'
+ 'incur' 'line_up' 'set_in_motion' 'bring' 'obtain' 'encounter' 'found'
+ 'forge' 'find' 'detect' 'put_in' 'name' 'establish' 'lie_in' 'prove'
+ 'witness' 'come_up' 'give' 'discover' 'organize' 'ground' 'notice'
+ 'retrieve' 'model' 'live' 'appoint' 'dwell' 'make_up' 'mould' 'be'
+ 'represent' 'constitute' 'organise' 'plunge' 'regulate' 'demonstrate'
+ 'take_form' 'instal' 'show' 'bump' 'happen' 'incorporate' 'inhabit'
+ 'install' 'get_hold' 'comprise' 'base' 'cast' 'make' 'shew' 'build'
+ 'chance' 'feel' 'plant' 'see' 'receive' 'impress']","[['comprise' '142']
+ ['consist' '113']
+ ['constitute' '26']
+ ['dwell' '23']
+ ['establish' '306']
+ ['form' '47']
+ ['found' '5']
+ ['imprint' '12']
+ ['inhabit' '2']
+ ['instal' '2']
+ ['institute' '4']
+ ['launch' '17']
+ ['mold' '1']
+ ['shape' '13']]","['comprise' 'consist' 'constitute' 'dwell' 'establish' 'form' 'found'
+ 'imprint' 'inhabit' 'instal' 'institute' 'launch' 'mold' 'shape']"
+196,196,compromise,['compromise'],[['compromise' '44']],['compromise']
+197,197,computerize,['computerise' 'cybernate' 'computerize'],"[['computerise' '1']
+ ['computerize' '3']]",['computerise' 'computerize']
+198,198,conceal,['hold_in' 'hold_back' 'hide' 'conceal'],[['conceal' '3']],['conceal']
+199,199,relate,"['allude' 'appertain' 'link_up' 'interest' 'advert' 'pertain' 'link'
+ 'have-to_doe_with' 'reach' 'stir' 'cite' 'refer' 'denote' 'occupy'
+ 'mention' 'tie_in' 'relate' 'tint' 'interrelate' 'adjoin' 'partake'
+ 'affect' 'consult' 'come_to' 'bear_upon' 'contact' 'impact' 'bring_up'
+ 'associate' 'tinct' 'disturb' 'touch_on' 'touch' 'meet' 'name' 'match'
+ 'bear_on' 'worry' 'connect' 'tinge' 'concern' 'rival' 'equal' 'look_up'
+ 'extend_to' 'colligate']","[['concern' '63']
+ ['pertain' '11']
+ ['refer' '109']
+ ['relate' '1044']
+ ['touch' '1']]",['concern' 'pertain' 'refer' 'relate' 'touch']
+200,200,concert,['concert'],[['concert' '2']],['concert']
+201,201,confer,"['confab' 'refer' 'confer' 'confer_with' 'confabulate' 'look_up' 'consult'
+ 'bestow']","[['confer' '129']
+ ['consult' '22']]",['confer' 'consult']
+202,202,introduce,"['forego' 'enfold' 'shut_in' 'antecede' 'inaugurate' 'throttle' 'slip_in'
+ 'tuck' 'stick_in' 'restrain' 'usher_in' 'enter' 'bring_out' 'enclose'
+ 'circumscribe' 'limit' 'innovate' 'insert' 'bound' 'predate' 'lead'
+ 'confine' 'infix' 'hold_in' 'bring_in' 'come_before' 'put_in' 'present'
+ 'enwrap' 'trammel' 'wrap' 'acquaint' 'envelop' 'raven' 'foredate' 'prey'
+ 'sneak_in' 'preface' 'close_in' 'hold' 'premiss' 'precede' 'antedate'
+ 'introduce' 'detain' 'inclose' 'premise' 'restrict' 'forgo']","[['confine' '5']
+ ['enclose' '1']
+ ['envelop' '5']
+ ['insert' '3']
+ ['introduce' '59']
+ ['precede' '44']
+ ['predate' '1']
+ ['premise' '1']]","['confine' 'enclose' 'envelop' 'insert' 'introduce' 'precede' 'predate'
+ 'premise']"
+203,203,conflict,['conflict' 'infringe' 'contravene' 'run_afoul'],[['conflict' '15']],['conflict']
+204,204,confound,"['throw' 'disconcert' 'confuse' 'bedevil' 'blur' 'put_off' 'flurry'
+ 'confound' 'jumble' 'discombobulate' 'obnubilate' 'fox' 'mix_up'
+ 'obscure' 'befuddle' 'fuddle']","[['confound' '71']
+ ['confuse' '3']]",['confound' 'confuse']
+205,205,face,['face' 'front' 'present' 'confront' 'look' 'face_up'],"[['confront' '1']
+ ['face' '29']]",['confront' 'face']
+206,206,conjugate,['conjugate'],[['conjugate' '13']],['conjugate']
+207,207,conserve,"['maintain' 'keep_up' 'conserve' 'economize' 'husband' 'economise'
+ 'preserve']",[['conserve' '33']],['conserve']
+208,208,consolidate,['consolidate'],[['consolidate' '2']],['consolidate']
+209,209,constrain,"['tighten_up' 'stiffen' 'restrain' 'constrain' 'cumber' 'encumber'
+ 'tighten']","[['constrain' '6']
+ ['stiffen' '1']]",['constrain' 'stiffen']
+210,210,deplete,"['deplete' 'tucker' 'release' 'tiptoe' 'topple' 'tilt' 'flux' 'tip_off'
+ 'give' 'ingest' 'eat_up' 'menstruate' 'exhaust' 'eat_on' 'run'
+ 'fertilize' 'bung' 'tumble' 'play_out' 'run_down' 'fall' 'tucker_out'
+ 'tip' 'lean' 'squander' 'take_in' 'fertilise' 'angle' 'consume' 'flow'
+ 'tippytoe' 'course' 'rust' 'tire' 'take' 'go_through' 'feed_in'
+ 'run_through' 'waste' 'feed' 'wash_up' 'have' 'sap' 'wipe_out' 'down'
+ 'prey' 'slant' 'discharge' 'corrode' 'ware' 'feast' 'fee' 'tap' 'eat'
+ 'expel' 'hang' 'beat' 'eject' 'devour' 'use_up']","[['consume' '7']
+ ['deplete' '58']
+ ['eat' '3']
+ ['exhaust' '4']
+ ['feed' '12']
+ ['flow' '31']
+ ['tip' '1']]",['consume' 'deplete' 'eat' 'exhaust' 'feed' 'flow' 'tip']
+211,211,contact,['touch' 'get_hold_of' 'meet' 'get_through' 'contact' 'adjoin' 'reach'],[['contact' '15']],['contact']
+212,212,contaminate,['pollute' 'contaminate' 'foul'],[['contaminate' '8']],['contaminate']
+213,213,continue,"['go_along' 'continue' 'go_forward' 'move' 'go_on' 'go' 'retain' 'keep_on'
+ 'uphold' 'remain' 'stay' 'keep' 'persist_in' 'cover' 'bear_on' 'carry_on'
+ 'extend' 'preserve' 'stay_on' 'proceed']","[['continue' '278']
+ ['proceed' '13']]",['continue' 'proceed']
+214,214,contradict,['belie' 'negate' 'contradict' 'controvert' 'contravene' 'oppose'],[['contradict' '2']],['contradict']
+215,215,contraindicate,['contraindicate'],[['contraindicate' '14']],['contraindicate']
+216,216,contrast,['contrast' 'counterpoint'],[['contrast' '7']],['contrast']
+217,217,convalesce,['convalesce' 'recuperate' 'recover'],[['convalesce' '3']],['convalesce']
+218,218,convene,['convene' 'convoke'],[['convene' '3']],['convene']
+219,219,converge,['converge' 'meet'],[['converge' '1']],['converge']
+220,220,correlate,['correlate'],[['correlate' '539']],['correlate']
+221,221,cost,['be' 'cost'],[['cost' '3']],['cost']
+222,222,cough,['cough'],[['cough' '7']],['cough']
+223,223,weaken,"['neutralize' 'weaken' 'undermine' 'break' 'soften' 'cave' 'de-escalate'
+ 'countercheck' 'antagonize' 'step_down' 'sabotage' 'dampen' 'countermine'
+ 'counterbalance' 'damp' 'antagonise' 'counteract' 'subvert' 'countervail']","[['counteract' '7']
+ ['undermine' '1']
+ ['weaken' '20']]",['counteract' 'undermine' 'weaken']
+224,224,pair,"['couple' 'copulate' 'partner_off' 'couple_on' 'mate' 'twin' 'pair'
+ 'geminate' 'couple_up' 'match' 'pair_off']","[['couple' '31']
+ ['pair' '67']]",['couple' 'pair']
+225,225,craft,['craft'],[['craft' '1']],['craft']
+226,226,create,['make' 'create' 'produce'],[['create' '74']],['create']
+227,227,cripple,['lame' 'stultify' 'cripple'],[['cripple' '1']],['cripple']
+228,228,crowd,['crowd_together' 'push' 'crowd' 'herd'],[['crowd' '4']],['crowd']
+229,229,crust,['crust'],[['crust' '1']],['crust']
+230,230,culture,['culture'],[['culture' '14']],['culture']
+231,231,cure,['cure' 'bring_around' 'heal'],[['cure' '13']],['cure']
+232,232,reduce,"['twist' 'trend' 'crook' 'curve' 'load_up' 'cut' 'prune' 'decoct' 'arc'
+ 'thin_out' 'slim_down' 'concentrate' 'cut_down' 'abridge' 'orient'
+ 'rationalize' 'trim_back' 'snub' 'shorten' 'charge' 'extend'
+ 'rationalise' 'stretch' 'scale_down' 'curl' 'slew' 'bring_down' 'subdue'
+ 'write_out' 'stretch_along' 'arch' 'edit' 'veer' 'debase' 'shrink'
+ 'edit_out' 'abbreviate' 'lade' 'dilute' 'elongate' 'come_down' 'repress'
+ 'geld' 'thin' 'contract' 'disregard' 'sew' 'wind' 'make_out' 'turn_off'
+ 'slue' 'deoxidise' 'lose_weight' 'slenderize' 'sheer' 'tighten'
+ 'melt_off' 'reduce' 'ignore' 'kink' 'hack' 'foreshorten' 'tailor'
+ 'trim_down' 'quash' 'subjugate' 'laden' 'load' 'cut_back' 'skip' 'swerve'
+ 'switch_off' 'unfold' 'trim' 'keep_down' 'adulterate' 'boil_down' 'burn'
+ 'slim' 'cut_off' 'deoxidize' 'issue' 'turn_out' 'stretch_out'
+ 'tailor-make']","[['curve' '15']
+ ['cut' '43']
+ ['dilute' '4']
+ ['load' '14']
+ ['reduce' '1292']
+ ['stretch' '2']
+ ['tailor' '20']
+ ['trend' '13']]",['curve' 'cut' 'dilute' 'load' 'reduce' 'stretch' 'tailor' 'trend']
+233,233,customize,['customize' 'customise' 'custom-make' 'tailor-make'],[['customize' '3']],['customize']
+234,234,cycle,['motorbike' 'pedal' 'bicycle' 'bike' 'wheel' 'motorcycle' 'cycle'],[['cycle' '1']],['cycle']
+235,235,damage,['damage'],[['damage' '1']],['damage']
+236,236,date,['go_steady' 'see' 'go_out' 'date' 'date_stamp'],[['date' '4']],['date']
+237,237,drain,['debilitate' 'run_out' 'drain' 'enfeeble'],"[['debilitate' '7']
+ ['drain' '27']]",['debilitate' 'drain']
+238,238,debut,['debut'],[['debut' '1']],['debut']
+239,239,decay,['crumble' 'dilapidate' 'decay' 'disintegrate' 'decompose'],[['decay' '9']],['decay']
+240,240,die,"['go_along' 'get' 'surpass' 'vocalize' 'fit' 'overtake' 'be_active'
+ 'go_on' 'croak' 'function' 'make_a_motion' 'take_place' 'evanesce'
+ 'travel_by' 'turn_over' 'hand' 'neglect' 'move_around' 'affect'
+ 'come_about' 'survive' 'mesh' 'go_through' 'make_it' 'vowelise'
+ 'pass_along' 'buy_the_farm' 'pass_away' 'lapse' 'voice' 'perish'
+ 'journey' 'extend' 'fathom' 'control' 'go_past' 'motivate' 'guide'
+ 'break_down' 'work' 'excrete' 'articulate' 'conk' 'move' 'depart'
+ 'pass_by' 'run_out' 'betray' 'expire' 'fall' 'fade' 'live_on' 'phonate'
+ 'hap' 'plump' 'transcend' 'lead' 'locomote' 'go_bad' 'belong' 'fall_out'
+ 'go_by' 'trip' 'hold_out' 'fail' 'flush_it' 'miscarry' 'blend' 'spend'
+ 'last' 'authorise' 'decease' 'go_across' 'occur' 'pass_on' 'exhale'
+ 'actuate' 'eliminate' 'lock' 'rifle' 'hold_up' 'glide_by' 'run_short'
+ 'reach' 'give' 'vocalise' 'jaunt' 'breathe_out' 'go' 'clear' 'drop_dead'
+ 'give_out' 'displace' 'break' 'become' 'fleet' 'devolve' 'pass_off' 'act'
+ 'live' 'slip_by' 'return' 'exceed' 'overstep' 'die_out' 'sink' 'run_low'
+ 'make_pass' 'prompt' 'authorize' 'blend_in' 'communicate' 'vowelize'
+ 'become_flat' 'slide_by' 'engage' 'egest' 'maneuver' 'proceed' 'draw'
+ 'go_wrong' 'enunciate' 'choke' 'travel' 'elapse' 'happen' 'slip_away'
+ 'give-up_the_ghost' 'blow_over' 'manoeuvre' 'die' 'go_away' 'overhaul'
+ '""cash_in_ones_chips""' 'snuff_it' 'run' 'operate' 'propel' 'get_going'
+ 'operate_on' 'start' 'give_way' 'pall' 'pop_off' 'bomb' 'manoeuver'
+ 'endure' 'impel' 'sound' 'incite' 'strike' 'pass' 'conk_out' 'legislate'
+ 'flunk' 'kick_the_bucket' 'put_across' 'impress' 'exit' 'top']","[['decease' '1']
+ ['die' '262']
+ ['expire' '4']
+ ['fail' '82']
+ ['go' '45']
+ ['move' '19']
+ ['operate' '40']
+ ['pass' '25']
+ ['propel' '1']
+ ['sound' '2']
+ ['travel' '5']
+ ['vocalize' '1']]","['decease' 'die' 'expire' 'fail' 'go' 'move' 'operate' 'pass' 'propel'
+ 'sound' 'travel' 'vocalize']"
+241,241,eliminate,"['carry_off' 'excrete' 'winnow_out' 'eradicate' 'decimate' 'rule_out'
+ 'uproot' 'root_out' 'annihilate' 'wipe_out' 'do_away_with' 'extirpate'
+ 'obviate' 'get_rid_of' 'pass' 'reject' 'rid_of' 'exterminate' 'egest'
+ 'eliminate' 'extinguish']","[['decimate' '1']
+ ['eliminate' '39']
+ ['eradicate' '5']]",['decimate' 'eliminate' 'eradicate']
+242,242,decipher,['decode' 'decipher' 'trace' 'decrypt'],[['decipher' '4']],['decipher']
+243,243,decouple,['decouple' 'dissociate' 'uncouple'],"[['decouple' '1']
+ ['uncouple' '1']]",['decouple' 'uncouple']
+244,244,decrease,['lessen' 'subside' 'fall' 'diminish' 'decrease' 'minify' 'belittle'],"[['decrease' '612']
+ ['diminish' '69']
+ ['lessen' '3']]",['decrease' 'diminish' 'lessen']
+245,245,derive,"['understand' 'infer' 'come' 'deduct' 'derive' 'guess' 'generalize'
+ 'deduce' 'extrapolate' 'gain' 'descend' 'educe' 'generalise']","[['deduce' '1']
+ ['derive' '182']
+ ['infer' '8']]",['deduce' 'derive' 'infer']
+246,246,deem,['take_for' 'view_as' 'deem' 'hold'],[['deem' '14']],['deem']
+247,247,defect,['desert' 'defect'],[['defect' '4']],['defect']
+248,248,defer,"['submit' 'hold_over' 'accede' 'tabulate' 'prorogue' 'defer' 'postpone'
+ 'tabularise' 'slacken' 'send_back' 'put_off' 'table' 'bow' 'give_in'
+ 'set_back' 'tabularize' 'shelve' 'put_over' 'remit' 'remand']","[['defer' '18']
+ ['postpone' '17']
+ ['remit' '8']
+ ['table' '1']
+ ['tabulate' '4']]",['defer' 'postpone' 'remit' 'table' 'tabulate']
+249,249,describe,"['get' 'pull_in' 'restore' 'desexualize' 'determine' 'restitute' 'tie'
+ 'amend' 'limit' 'attract' 'hound' 'quarter' 'wander' 'eviscerate'
+ 'delimit' 'take_up' 'set_up' 'bushel' 'draw_in' 'repair' 'reestablish'
+ 'reinstate' 'touch_on' 'puff' 'draw_off' 'fasten' 'groom' 'pay_off'
+ 'fixate' 'recreate' 'guide' 'disembowel' 'draft' 'vivify' 'absorb' 'pull'
+ 'unsex' 'quicken' 'sop_up' 'furbish_up' 'retrace' 'hunt' 'compensate'
+ 'limn' 'take_in' 'reap' 'rectify' 'soak_up' 'key_out' 'devise'
+ 'pull_back' 'identify' 'get_out' 'key' 'name' 'trace' 'suck' 'situate'
+ 'line' 'distinguish' 'regenerate' 'wind' 'weave' 'settle_on' 'recompense'
+ 'force' 'train' 'discover' 'organize' 'desex' 'deposit' 'decipher'
+ 'desexualise' 'sterilize' 'adumbrate' 'gear_up' 'machinate' 'resort'
+ 'revivify' 'describe' 'depict' 'string' 'take_out' 'report' 'organise'
+ 'pay_back' 'account' 'renovate' 'meander' 'imbibe' 'specify' 'draw'
+ 'delimitate' 'get_up' 'animate' 'fix' 'drag' 'withdraw' 'delineate'
+ 'sterilise' 'rejuvenate' 'run_along' 'outline' 'reanimate' 'follow' 'run'
+ 'reconstruct' 'revive' 'remedy' 'secure' 'cast' 'define' 'posit'
+ 'educate' 'make' 'develop' 'cook' 'doctor' 'pull_out' 'thread' 'pass'
+ 'ready' 'sketch' 'mend' 'set' 'suck_up' 'remediate' 'prepare' 'indemnify'
+ 'draw_and_quarter']","[['define' '377']
+ ['delineate' '6']
+ ['describe' '522']
+ ['draw' '43']
+ ['fix' '38']
+ ['fixate' '1']
+ ['line' '1']
+ ['outline' '13']
+ ['prepare' '37']
+ ['repair' '1']
+ ['restore' '32']
+ ['sterilize' '17']
+ ['thread' '1']
+ ['trace' '25']]","['define' 'delineate' 'describe' 'draw' 'fix' 'fixate' 'line' 'outline'
+ 'prepare' 'repair' 'restore' 'sterilize' 'thread' 'trace']"
+250,250,defray,['defray'],[['defray' '1']],['defray']
+251,251,demise,['demise'],[['demise' '1']],['demise']
+252,252,demyelinate,['demyelinate'],[['demyelinate' '16']],['demyelinate']
+253,253,deny,['abnegate' 'deny' 'traverse' 'refuse'],[['deny' '2']],['deny']
+254,254,depict,"['impersonate' 'describe' 'render' 'depict' 'present' 'show' 'limn' 'draw'
+ 'picture' 'portray']","[['depict' '6']
+ ['portray' '1']]",['depict' 'portray']
+255,255,deploy,['deploy'],[['deploy' '42']],['deploy']
+256,256,deprive,"['denude' 'rifle' 'strip' 'unclothe' 'impoverish' 'disrobe' 'undress'
+ 'despoil' 'ransack' 'disinvest' 'plunder' 'pillage' 'peel' 'dismantle'
+ 'uncase' 'clean' 'bare' 'foray' 'leach' 'deprive' 'denudate' 'reave'
+ 'divest' 'loot' 'discase' 'strip_down']","[['deprive' '15']
+ ['divest' '1']
+ ['strip' '2']]",['deprive' 'divest' 'strip']
+257,257,derange,['perturb' 'unbalance' 'derange' 'throw_out_of_kilter'],[['derange' '1']],['derange']
+258,258,desensitize,['desensitize' 'desensitise'],[['desensitize' '2']],['desensitize']
+259,259,deserve,['deserve' 'merit'],[['deserve' '13']],['deserve']
+260,260,design,['project' 'plan' 'contrive' 'design' 'be_after'],"[['design' '150']
+ ['plan' '76']]",['design' 'plan']
+261,261,desire,['desire' 'trust' 'hope' 'go_for' 'want'],"[['desire' '11']
+ ['hope' '5']]",['desire' 'hope']
+262,262,destabilize,['destabilize' 'destabilise'],[['destabilize' '1']],['destabilize']
+263,263,destroy,['demolish' 'put_down' 'destroy' 'ruin' 'destruct'],[['destroy' '1']],['destroy']
+264,264,detail,['detail'],[['detail' '3']],['detail']
+265,265,detect,['discover' 'observe' 'notice' 'detect' 'find'],[['detect' '1060']],['detect']
+266,266,deteriorate,['degenerate' 'drop' 'devolve' 'deteriorate'],[['deteriorate' '6']],['deteriorate']
+267,267,devastate,"['languish' 'run_off' 'liquidate' 'neutralise' 'neutralize' 'pine_away'
+ 'knock_off' 'squander' 'consume' 'lay_waste_to' 'blow' 'rot' 'devastate'
+ 'waste' 'scourge' 'emaciate' 'desolate' 'ware' 'macerate' 'do_in'
+ 'ravage']","[['devastate' '1']
+ ['waste' '1']]",['devastate' 'waste']
+268,268,vary,"['deviate' 'change' 'variegate' 'vary' 'diverge' 'motley' 'depart' 'alter'
+ 'divert']","[['deviate' '1']
+ ['diverge' '3']
+ ['vary' '160']]",['deviate' 'diverge' 'vary']
+269,269,formulate,"['explicate' 'contrive' 'get_up' 'articulate' 'organize' 'give_voice'
+ 'phrase' 'excogitate' 'invent' 'formulate' 'devise' 'prepare' 'forge'
+ 'develop' 'organise' 'machinate' 'word']","[['devise' '7']
+ ['formulate' '61']]",['devise' 'formulate']
+270,270,devote,['give' 'pay' 'dedicate' 'commit' 'devote' 'consecrate'],[['devote' '1']],['devote']
+271,271,diagnose,['diagnose' 'name'],[['diagnose' '394']],['diagnose']
+272,272,dialyze,['dialyze' 'dialyse'],[['dialyze' '2']],['dialyze']
+273,273,dichotomise,['dichotomize' 'dichotomise'],"[['dichotomise' '1']
+ ['dichotomize' '1']]",['dichotomise' 'dichotomize']
+274,274,prescribe,['prescribe' 'order' 'dictate'],"[['dictate' '5']
+ ['prescribe' '24']]",['dictate' 'prescribe']
+275,275,differ,['dissent' 'take_issue' 'discord' 'differ' 'disaccord' 'disagree'],"[['differ' '166']
+ ['disagree' '1']]",['differ' 'disagree']
+276,276,recognize,"['distinguish' 'secern' 'mark' 'severalize' 'spy' 'know' 'fleck'
+ 'acknowledge' 'recognize' 'tell' 'espy' 'agnise' 'blot' 'descry'
+ 'make_out' 'discover' 'specialise' 'signalize' 'specialize' 'blob'
+ 'differentiate' 'discern' 'agnize' 'key_out' 'blemish' 'describe'
+ 'realise' 'pick_out' 'accredit' 'identify' 'recognise' 'key' 'name'
+ 'speciate' 'severalise' 'realize' 'secernate' 'greet' 'tell_apart'
+ 'signalise' 'spot' 'separate']","[['differentiate' '40']
+ ['distinguish' '40']
+ ['recognise' '10']
+ ['recognize' '101']
+ ['spot' '2']]",['differentiate' 'distinguish' 'recognise' 'recognize' 'spot']
+277,277,disadvantage,['disadvantage' 'disfavour' 'disfavor'],[['disadvantage' '1']],['disadvantage']
+278,278,disappear,['vanish' 'melt' 'go_away' 'disappear' 'evaporate'],[['disappear' '19']],['disappear']
+279,279,discard,"['throw_away' 'toss_away' 'dispose' 'fling' 'put_away' 'chuck_out'
+ 'cast_out' 'throw_out' 'toss' 'cast_away' 'discard' 'cast_aside'
+ 'toss_out']",[['discard' '2']],['discard']
+280,280,discern,"['spot' 'discern' 'pick_out' 'recognise' 'distinguish' 'make_out'
+ 'tell_apart' 'recognize']",[['discern' '1']],['discern']
+281,281,displace,"['disregard' 'preempt' 'send_away' 'give_the_axe' 'sack' 'move'
+ 'push_aside' 'usher_out' 'brush_aside' 'displace' 'cut' 'give_notice'
+ 'stop' 'cease' 'give_the_sack' 'neglect' 'can' 'discount' 'dissolve'
+ 'force_out' 'dismiss' 'fire' 'snub' 'throw_out' 'ignore' 'brush_off'
+ 'terminate' 'end' 'finish' 'send_packing' 'drop']","[['discount' '1']
+ ['dismiss' '3']
+ ['displace' '8']
+ ['ignore' '3']
+ ['terminate' '6']]",['discount' 'dismiss' 'displace' 'ignore' 'terminate']
+282,282,discourage,['admonish' 'monish' 'discourage' 'warn' 'deter'],"[['discourage' '5']
+ ['warn' '3']]",['discourage' 'warn']
+283,283,discriminate,['discriminate' 'single_out' 'separate' 'know_apart'],[['discriminate' '5']],['discriminate']
+284,284,discuss,['discuss' 'discourse' 'talk_over' 'talk_about' 'hash_out'],[['discuss' '75']],['discuss']
+285,285,disentangle,"['extricate' 'comb_out' 'comb' 'straighten_out' 'disinvolve' 'unwind'
+ 'untangle' 'unsnarl' 'disembroil' 'disencumber' 'disentangle']",[['disentangle' '3']],['disentangle']
+286,286,perturb,"['disquiet' 'throw_out_of_kilter' 'cark' 'unhinge' 'derange' 'trouble'
+ 'perturb' 'distract' 'disarray' 'disorder']","[['disorder' '1']
+ ['perturb' '2']]",['disorder' 'perturb']
+287,287,dispel,"['drive_away' 'turn_back' 'dispel' 'dissipate' 'disperse' 'break_up'
+ 'drive_out' 'drive_off' 'run_off' 'scatter' 'chase_away']",[['dispel' '1']],['dispel']
+288,288,display,['expose' 'display' 'exhibit'],[['display' '109']],['display']
+289,289,disqualify,['indispose' 'disqualify' 'unfit'],[['disqualify' '1']],['disqualify']
+290,290,disrupt,['break' 'disturb' 'break_up' 'cut_off' 'disrupt' 'interrupt'],"[['disrupt' '12']
+ ['interrupt' '7']]",['disrupt' 'interrupt']
+291,291,distance,['outdistance' 'outstrip' 'distance'],[['distance' '18']],['distance']
+292,292,disturb,"['agitate' 'commove' 'touch' 'stir_up' 'disturb' 'trouble' 'interrupt'
+ 'raise_up' 'shake_up' 'vex' 'upset']",[['disturb' '5']],['disturb']
+293,293,divide,"['carve_up' 'divide' 'fraction' 'part' 'disunite' 'separate' 'split_up'
+ 'split' 'dissever']",[['divide' '67']],['divide']
+294,294,document,['document'],[['document' '219']],['document']
+295,295,dominate,"['dominate' 'command' 'overlook' 'master' 'predominate' 'occult' 'overtop'
+ 'rule' 'overshadow' 'prevail' 'reign' 'loom' 'hulk' 'eclipse' 'tower']","[['dominate' '52']
+ ['eclipse' '2']
+ ['predominate' '21']]",['dominate' 'eclipse' 'predominate']
+296,296,donate,['donate'],[['donate' '18']],['donate']
+297,297,dose,['dose' 'drug'],[['dose' '3333']],['dose']
+298,298,replicate,"['parallel' 'reduplicate' 'double' 'copy' 'retroflex' 'twin' 'duplicate'
+ 'replicate' 'repeat' 'double_up' 'double_over' 'collimate']","[['double' '13']
+ ['duplicate' '2']
+ ['parallel' '1']
+ ['replicate' '24']]",['double' 'duplicate' 'parallel' 'replicate']
+299,299,doubt,['doubt'],[['doubt' '1']],['doubt']
+300,300,dovetail,['dovetail'],[['dovetail' '1']],['dovetail']
+301,301,download,['download'],[['download' '3']],['download']
+302,302,draft,['enlist' 'muster_in' 'outline' 'draft' 'draught' 'blueprint'],[['draft' '1']],['draft']
+303,303,drink,"['tope' 'drink' 'booze' 'fuddle' 'salute' 'pledge' 'wassail' 'drink_in'
+ 'imbibe' 'toast']",[['drink' '11']],['drink']
+304,304,dry,['dry' 'dry_out'],[['dry' '47']],['dry']
+305,305,dub,['knight' 'dub' 'nickname'],[['dub' '4']],['dub']
+306,306,effect,['effect' 'effectuate' 'set_up'],[['effect' '3']],['effect']
+307,307,ejaculate,['blunder_out' 'blurt' 'ejaculate' 'blunder' 'blurt_out'],[['ejaculate' '4']],['ejaculate']
+308,308,elapse,"['go_by' 'slide_by' 'slip_away' 'lapse' 'glide_by' 'slip_by' 'elapse'
+ 'go_along' 'pass']",[['elapse' '29']],['elapse']
+309,309,elbow,['elbow'],[['elbow' '1']],['elbow']
+310,310,elongate,['stretch' 'elongate'],[['elongate' '1']],['elongate']
+311,311,elute,['elute'],[['elute' '1']],['elute']
+312,312,email,['email' 'netmail' 'e-mail'],[['email' '6']],['email']
+313,313,embed,['graft' 'imbed' 'implant' 'ingraft' 'engraft' 'plant' 'embed'],"[['embed' '1']
+ ['engraft' '1']
+ ['implant' '1']]",['embed' 'engraft' 'implant']
+314,314,emerge,"['make_out' 'release' 'write' 'come_out' 'cut' 'come_forth' 'emerge'
+ 'egress' 'issue' 'supply' 'print' 'write_out' 'go_forth' 'bring_out'
+ 'put_out' 'publish']","[['emerge' '380']
+ ['issue' '30']
+ ['publish' '269']]",['emerge' 'issue' 'publish']
+315,315,emulate,['emulate'],[['emulate' '2']],['emulate']
+316,316,emulsify,['emulsify'],[['emulsify' '1']],['emulsify']
+317,317,enable,['enable'],[['enable' '74']],['enable']
+318,318,encapsulate,['capsule' 'capsulize' 'capsulise' 'encapsulate'],[['encapsulate' '13']],['encapsulate']
+319,319,encode,['encode'],[['encode' '59']],['encode']
+320,320,meet,"['suffer' 'run_across' 'happen' 'fit' 'fill' 'receive' 'encounter'
+ 'foregather' 'come_across' 'fulfill' 'converge' 'adjoin' 'gather'
+ 'contact' 'find' 'take_on' 'assemble' 'conform_to' 'touch' 'meet'
+ 'get_together' 'chance' 'match' 'fulfil' 'forgather' 'play' 'satisfy'
+ 'run_into' 'see' 'bump' 'cope_with']","[['encounter' '27']
+ ['meet' '114']]",['encounter' 'meet']
+321,321,enhance,['heighten' 'raise' 'enhance'],[['enhance' '241']],['enhance']
+322,322,enrich,['enrich'],[['enrich' '29']],['enrich']
+323,323,enrol,"['get_in' 'put_down' 'accede' 'come_in' 'enroll' 'participate' 'levy'
+ 'enter' 'move_into' 'insert' 'go_into' 'take_part' 'raise' 'infix'
+ 'embark' 'get_into' 'go_in' 'recruit' 'enrol' 'record' 'inscribe'
+ 'introduce' 'figure']","[['enrol' '496']
+ ['enroll' '6']
+ ['enter' '30']
+ ['participate' '106']
+ ['recruit' '190']]",['enrol' 'enroll' 'enter' 'participate' 'recruit']
+324,324,ensue,['ensue' 'result'],[['ensue' '8']],['ensue']
+325,325,imply,"['fee-tail' 'criminate' 'incriminate' 'involve' 'inculpate' 'mean'
+ 'implicate' 'imply' 'accuse' 'impeach' 'connote' 'entail']","[['entail' '8']
+ ['implicate' '25']
+ ['imply' '26']
+ ['incriminate' '1']]",['entail' 'implicate' 'imply' 'incriminate']
+326,326,entitle,['gentle' 'ennoble' 'entitle' 'title'],[['entitle' '4']],['entitle']
+327,327,envisage,['envisage' 'imagine' 'conceive_of' 'ideate'],[['envisage' '1']],['envisage']
+328,328,equate,"['compare' 'liken' 'rival' 'equalize' 'correspond' 'touch' 'equate'
+ 'get_even' 'be' 'equal' 'equalise' 'match']","[['equal' '2']
+ ['equalize' '1']
+ ['equate' '3']]",['equal' 'equalize' 'equate']
+329,329,equip,['equip' 'fit_out' 'fit' 'outfit'],[['equip' '4']],['equip']
+330,330,erode,['wear_away' 'erode' 'eat_away' 'gnaw' 'gnaw_at' 'fret' 'eat_at'],[['erode' '1']],['erode']
+331,331,escalate,['intensify' 'escalate' 'step_up'],[['escalate' '11']],['escalate']
+332,332,escape,"['head_for_the_hills' 'break_loose' 'take_to_the_woods' 'hightail_it'
+ 'miss' 'get_out' 'scarper' 'bunk' 'turn_tail' 'get_off' 'get_away' 'scat'
+ 'run' 'run_away' 'fly_the_coop' 'lam' 'break_away' 'escape' 'elude'
+ 'get_by']",[['escape' '71']],['escape']
+333,333,evacuate,['empty' 'evacuate' 'void'],[['evacuate' '2']],['evacuate']
+334,334,evade,"['skirt' 'hedge' 'bilk' 'evade' 'dodge' 'sidestep' 'circumvent' 'put_off'
+ 'parry' 'duck' 'elude' 'fudge']",[['evade' '18']],['evade']
+335,335,excavate,['hollow' 'dig' 'unearth' 'turn_up' 'dig_up' 'excavate'],[['excavate' '1']],['excavate']
+336,336,exceed,"['outgo' 'exceed' 'overstep' 'surmount' 'pass' 'excel' 'go_past' 'outdo'
+ 'travel_by' 'outperform' 'pass_by' 'surpass' 'outstrip' 'transcend'
+ 'outmatch' 'stand_out' 'go_by' 'top']","[['exceed' '57']
+ ['outperform' '4']
+ ['surpass' '2']]",['exceed' 'outperform' 'surpass']
+337,337,excel,['excel' 'stand_out' 'surpass'],[['excel' '1']],['excel']
+338,338,excise,['strike' 'excise' 'scratch' 'expunge'],[['excise' '2']],['excise']
+339,339,exclude,"['leave_out' 'exclude' 'except' 'leave_off' 'keep_out' 'shut' 'debar'
+ 'bar' 'boot_out' 'shut_out' 'eject' 'turf_out' 'take_out' 'omit'
+ 'turn_out' 'chuck_out']",[['exclude' '240']],['exclude']
+340,340,illustrate,['instance' 'illustrate' 'exemplify' 'represent'],"[['exemplify' '4']
+ ['illustrate' '21']]",['exemplify' 'illustrate']
+341,341,exfoliate,['exfoliate'],[['exfoliate' '1']],['exfoliate']
+342,342,exist,['exist' 'be' 'live' 'survive' 'subsist'],[['exist' '377']],['exist']
+343,343,expedite,"['expedite' 'belt_along' 'step_on_it' 'bucket_along' 'stimulate' 'quicken'
+ 'cannonball_along' 'hotfoot' 'travel_rapidly' 'speed' 'hasten'
+ 'look_sharp' 'hurry' 'hie' 'festinate' 'pelt_along' 'rush_along' 'zip'
+ 'race' 'speed_up' 'accelerate' 'rush' 'induce']","[['expedite' '15']
+ ['hasten' '2']
+ ['speed' '3']]",['expedite' 'hasten' 'speed']
+344,344,experience,"['palpate' 'live' 'go_through' 'find' 'get' 'know' 'finger' 'have'
+ 'experience' 'see' 'receive' 'feel' 'sense']","[['experience' '82']
+ ['feel' '9']]",['experience' 'feel']
+345,345,experiment,['experiment' 'try_out'],[['experiment' '1']],['experiment']
+346,346,explain,['explicate' 'explain' 'excuse'],[['explain' '81']],['explain']
+347,347,exploit,['exploit' 'overwork' 'tap' 'work'],[['exploit' '5']],['exploit']
+348,348,explore,['research' 'look' 'look_for' 'explore' 'search' 'seek'],"[['explore' '139']
+ ['research' '4']
+ ['search' '107']]",['explore' 'research' 'search']
+349,349,export,['export'],[['export' '1']],['export']
+350,350,mitigate,['palliate' 'mitigate' 'extenuate'],"[['extenuate' '1']
+ ['mitigate' '57']]",['extenuate' 'mitigate']
+351,351,generalize,"['infer' 'generalize' 'extrapolate' 'vulgarise' 'popularize' 'vulgarize'
+ 'interpolate' 'generalise' 'popularise']","[['extrapolate' '9']
+ ['generalize' '29']]",['extrapolate' 'generalize']
+352,352,factor,['factor_out' 'factor_in' 'factor'],[['factor' '1']],['factor']
+353,353,fade,"['languish' 'fade' 'melt' 'pass_off' 'evanesce' 'fleet' 'blow_over'
+ 'wither' 'pass']",[['fade' '4']],['fade']
+354,354,faint,['conk' 'pass_out' 'faint' 'swoon'],[['faint' '3']],['faint']
+355,355,farm,['farm' 'raise' 'grow' 'produce'],[['farm' '1']],['farm']
+356,356,farrow,['pig' 'farrow'],[['farrow' '6']],['farrow']
+357,357,fast,['fast'],[['fast' '7']],['fast']
+358,358,fatten,"['flesh_out' 'fatten' 'plump' 'fatten_up' 'fill_out' 'fat' 'fatten_out'
+ 'plump_out']",[['fatten' '1']],['fatten']
+359,359,favor,['favor' 'prefer' 'privilege' 'favour'],"[['favor' '18']
+ ['favour' '11']]",['favor' 'favour']
+360,360,fear,['revere' 'venerate' 'dread' 'reverence' 'fear'],[['fear' '11']],['fear']
+361,361,feature,['sport' 'feature' 'boast' 'have'],[['feature' '3']],['feature']
+362,362,fee,['bung' 'tip' 'fee'],[['fee' '2']],['fee']
+363,363,felt,"['mat' 'felt_up' 'finger' 'matte' 'sense' 'palpate' 'matte_up' 'mat_up'
+ 'feel' 'experience' 'felt' 'find' 'matt-up']",[['felt' '6']],['felt']
+364,364,ferment,['sour' 'turn' 'ferment' 'work'],[['ferment' '1']],['ferment']
+365,365,file,['lodge' 'file_away' 'charge' 'register' 'file'],[['file' '6']],['file']
+366,366,fill,"['fulfill' 'fill_up' 'make_full' 'fulfil' 'sate' 'take' 'fill' 'satisfy'
+ 'meet' 'satiate' 'replete' 'occupy']",[['fill' '20']],['fill']
+367,367,strain,"['try' 'tense' 'strain' 'distort' 'reach' 'tense_up' 'sieve' 'puree'
+ 'filter' 'sift' 'dribble' 'separate_out' 'strive' 'percolate'
+ 'filter_out' 'trickle' 'extend' 'stress' 'sink_in' 'filtrate' 'permeate'
+ 'deform']","[['filter' '2']
+ ['strain' '67']]",['filter' 'strain']
+368,368,finalize,['nail_down' 'finalise' 'finalize' 'settle'],[['finalize' '1']],['finalize']
+369,369,finance,['finance'],[['finance' '3']],['finance']
+370,370,flare,"['burst_out' 'flame' 'erupt' 'flare' 'burn_up' 'flame_up' 'break_open'
+ 'flare_up' 'blaze_up' 'irrupt' 'flare_out']",[['flare' '23']],['flare']
+371,371,flay,['flay'],[['flay' '1']],['flay']
+372,372,floor,"['shock' 'take_aback' 'floor' 'coldcock' 'deck' 'dump'
+ 'blow_out_of_the_water' 'ball_over' 'knock_down']",[['floor' '4']],['floor']
+373,373,fluctuate,['fluctuate' 'vacillate' 'waver'],[['fluctuate' '2']],['fluctuate']
+374,374,flush,"['point' 'even_out' 'sluice' 'raze' 'level_off' 'purge' 'scour'
+ 'dismantle' 'pull_down' 'crimson' 'rase' 'flush' 'take_down' 'level'
+ 'even' 'charge' 'tear_down' 'blush' 'redden']","[['flush' '7']
+ ['level' '2']]",['flush' 'level']
+375,375,obscure,"['hide' 'overcloud' 'mist' 'confuse' 'obliterate' 'blur' 'befog' 'veil'
+ 'bedim' 'cloud' 'fog' 'blot_out' 'haze_over' 'obscure' 'becloud'
+ 'obnubilate']","[['fog' '1']
+ ['obscure' '2']]",['fog' 'obscure']
+376,376,validate,['corroborate' 'formalize' 'validate' 'formalise'],"[['formalize' '1']
+ ['validate' '36']]",['formalize' 'validate']
+377,377,foster,['nurture' 'foster' 'further'],[['foster' '1']],['foster']
+378,378,fragment,['break_up' 'fragmentize' 'fragment' 'fragmentise'],[['fragment' '2']],['fragment']
+379,379,fuel,['fire' 'fuel'],[['fuel' '5']],['fuel']
+380,380,function,['serve' 'officiate' 'operate' 'work' 'function' 'go' 'run'],[['function' '13']],['function']
+381,381,fund,['fund'],[['fund' '106']],['fund']
+382,382,funnel,['funnel'],[['funnel' '1']],['funnel']
+383,383,generate,"['yield' 'give' 'return' 'father' 'bring_forth' 'render' 'sire' 'mother'
+ 'engender' 'get' 'generate' 'beget']",[['generate' '297']],['generate']
+384,384,govern,['regularise' 'govern' 'rule' 'order' 'regularize' 'regulate'],"[['govern' '2']
+ ['regularize' '1']]",['govern' 'regularize']
+385,385,set,"['arrange' 'range' 'say' 'congeal' 'mark' 'correct' 'put' 'grade'
+ 'prescribe' 'point' 'invest' 'frame' 'localise' 'come_in' 'redact' 'tell'
+ 'locate' 'couch' 'coif' 'place' 'determine' 'position' 'target'
+ 'ordinate' 'go_under' 'limit' 'pose' 'assign' 'ordain' 'send' 'typeset'
+ 'lay' 'coordinate' 'aim' 'align' 'consecrate' 'gear_up' 'score'
+ 'fructify' 'station' 'set_up' 'countersink' 'go_down' 'localize' 'cast'
+ 'regularise' 'define' 'come_out' 'jell' 'adjust' 'dress' 'identify'
+ 'rank' 'direct' 'commit' 'post' 'regulate' 'dictate' 'rig' 'plant'
+ 'ready' 'enjoin' 'govern' 'site' 'set' 'coiffe' 'prepare' 'do' 'specify'
+ 'order' 'coiffure' 'sic' 'regularize' 'fix' 'lay_out' 'rate']","[['grade' '20']
+ ['order' '7']
+ ['ordinate' '1']
+ ['place' '14']
+ ['put' '34']
+ ['set' '406']]",['grade' 'order' 'ordinate' 'place' 'put' 'set']
+386,386,graze,['graze' 'pasture' 'crop' 'range' 'rake' 'browse' 'crease'],[['graze' '1']],['graze']
+387,387,grind,"['fag' 'comminute' 'moil' 'labour' 'craunch' 'toil' 'dig' 'travail'
+ 'drudge' 'mash' 'grind' 'cranch' 'crunch' 'labor' 'grate' 'bray']",[['grind' '1']],['grind']
+388,388,group,['aggroup' 'group'],[['group' '14']],['group']
+389,389,grunt,['grunt'],[['grunt' '1']],['grunt']
+390,390,gut,['gut'],[['gut' '2']],['gut']
+391,391,halve,['halve'],[['halve' '3']],['halve']
+392,392,hamper,['handicap' 'strangle' 'hinder' 'cramp' 'halter' 'hamper'],[['hamper' '23']],['hamper']
+393,393,handwash,['hand-wash' 'handwash'],[['handwash' '3']],['handwash']
+394,394,harbor,['hold' 'harbour' 'entertain' 'nurse' 'screen' 'harbor' 'shield'],"[['harbor' '24']
+ ['harbour' '9']
+ ['shield' '5']]",['harbor' 'harbour' 'shield']
+395,395,harm,['harm'],[['harm' '3']],['harm']
+396,396,harness,['rein_in' 'harness' 'tackle' 'rule' 'rein' 'draw_rein'],[['harness' '1']],['harness']
+397,397,harvest,['reap' 'harvest' 'glean'],[['harvest' '3']],['harvest']
+398,398,hemagglutinate,['hemagglutinate' 'haemagglutinate'],[['hemagglutinate' '3']],['hemagglutinate']
+399,399,highlight,['foreground' 'play_up' 'spotlight' 'highlight'],"[['highlight' '63']
+ ['spotlight' '1']]",['highlight' 'spotlight']
+400,400,hinge,['hinge'],[['hinge' '1']],['hinge']
+401,401,hint,['suggest' 'hint'],[['hint' '10']],['hint']
+402,402,home,['home'],[['home' '9']],['home']
+403,403,hop,['skip' 'hop' 'hop-skip'],[['hop' '4']],['hop']
+404,404,horn,['horn' 'tusk'],[['horn' '1']],['horn']
+405,405,hospitalize,['hospitalize' 'hospitalise'],"[['hospitalise' '102']
+ ['hospitalize' '572']]",['hospitalise' 'hospitalize']
+406,406,house,['domiciliate' 'put_up' 'house'],[['house' '3']],['house']
+407,407,humanize,['humanise' 'humanize'],"[['humanise' '1']
+ ['humanize' '6']]",['humanise' 'humanize']
+408,408,hypothesize,"['say' 'hypothesise' 'theorise' 'guess' 'conjecture' 'reckon'
+ 'hypothecate' 'theorize' 'opine' 'think' 'speculate' 'suppose'
+ 'hypothesize' 'presuppose' 'imagine']","[['hypothesise' '4']
+ ['hypothesize' '41']
+ ['suppose' '2']
+ ['theorize' '2']]",['hypothesise' 'hypothesize' 'suppose' 'theorize']
+409,409,inflame,"['catch_fire' 'conflagrate' 'wake' 'combust' 'heat' 'stir_up' 'take_fire'
+ 'light' 'enkindle' 'erupt' 'inflame' 'kindle' 'ignite' 'fire_up']","[['ignite' '1']
+ ['inflame' '3']]",['ignite' 'inflame']
+410,410,immigrate,['immigrate'],[['immigrate' '1']],['immigrate']
+411,411,vaccinate,['immunise' 'immunize' 'inoculate' 'vaccinate'],"[['immunise' '15']
+ ['immunize' '228']
+ ['inoculate' '49']
+ ['vaccinate' '2946']]",['immunise' 'immunize' 'inoculate' 'vaccinate']
+412,412,impair,['impair' 'mar' 'deflower' 'spoil' 'vitiate'],[['impair' '30']],['impair']
+413,413,impend,['impend'],[['impend' '2']],['impend']
+414,414,import,['spell' 'import'],[['import' '14']],['import']
+415,415,inactivate,['deactivate' 'demobilize' 'inactivate' 'demobilise'],[['inactivate' '459']],['inactivate']
+416,416,incarcerate,"['put_away' 'fall_back' 'imprison' 'fall_behind' 'remand' 'incarcerate'
+ 'put_behind_bars' 'immure' 'lag' 'jug' 'gaol' 'dawdle' 'jail']","[['incarcerate' '4']
+ ['jail' '2']
+ ['lag' '4']]",['incarcerate' 'jail' 'lag']
+417,417,prompt,"['incite' 'cue' 'remind' 'instigate' 'prompt' 'propel' 'motivate'
+ 'stir_up' 'egg_on' 'move' 'prod' 'inspire' 'actuate' 'set_off']","[['incite' '1']
+ ['motivate' '3']
+ ['prompt' '29']
+ ['remind' '1']]",['incite' 'motivate' 'prompt' 'remind']
+418,418,increase,['increase'],[['increase' '2274']],['increase']
+419,419,index,['index'],[['index' '6']],['index']
+420,420,indurate,['indurate' 'harden' 'inure'],[['indurate' '1']],['indurate']
+421,421,industrialize,['industrialize' 'industrialise'],[['industrialize' '1']],['industrialize']
+422,422,infect,['taint' 'infect'],[['infect' '1081']],['infect']
+423,423,infiltrate,['pass_through' 'infiltrate' 'penetrate'],[['infiltrate' '11']],['infiltrate']
+424,424,inform,['inform'],[['inform' '159']],['inform']
+425,425,transfuse,"['inculcate' 'impregnate' 'transfuse' 'tincture' 'instil' 'instill' 'cup'
+ 'ingrain' 'infuse' 'impress' 'steep']","[['infuse' '4']
+ ['instill' '4']
+ ['transfuse' '20']]",['infuse' 'instill' 'transfuse']
+426,426,inhale,"['urge_on' 'animate' 'root_on' 'urge' 'breathe_in' 'press' 'inspire'
+ 'invigorate' 'cheer' 'revolutionize' 'exhort' 'barrack' 'prompt'
+ 'revolutionise' 'enliven' 'overturn' 'pep_up' 'instigate' 'inhale'
+ 'exalt' 'advocate' 'recommend']","[['inhale' '7']
+ ['inspire' '6']
+ ['revolutionize' '1']
+ ['urge' '5']]",['inhale' 'inspire' 'revolutionize' 'urge']
+427,427,inherit,['inherit'],[['inherit' '4']],['inherit']
+428,428,initialize,['initialize' 'initialise' 'format'],[['initialize' '1']],['initialize']
+429,429,initiate,"['originate' 'induct' 'initiate' 'lead_up' 'open_up' 'broach' 'start'
+ 'pioneer']","[['initiate' '86']
+ ['pioneer' '3']]",['initiate' 'pioneer']
+430,430,inject,['interject' 'shoot' 'come_in' 'interpose' 'put_in' 'throw_in' 'inject'],[['inject' '33']],['inject']
+431,431,innovate,['introduce' 'innovate'],[['innovate' '1']],['innovate']
+432,432,scrutinize,"['size_up' 'visit' 'scrutinise' 'audit' 'inspect' 'take_stock'
+ 'scrutinize']","[['inspect' '1']
+ ['scrutinize' '5']]",['inspect' 'scrutinize']
+433,433,institutionalize,['charge' 'institutionalise' 'send' 'institutionalize' 'commit'],"[['institutionalise' '1']
+ ['institutionalize' '3']]",['institutionalise' 'institutionalize']
+434,434,instruct,['apprize' 'teach' 'learn' 'instruct' 'apprise'],[['instruct' '2']],['instruct']
+435,435,instrument,['instrumentate' 'instrument'],[['instrument' '1']],['instrument']
+436,436,interact,['interact'],[['interact' '9']],['interact']
+437,437,interfere,['intervene' 'interpose' 'interfere' 'step_in'],"[['interfere' '15']
+ ['intervene' '1']]",['interfere' 'intervene']
+438,438,mediate,['liaise' 'intermediate' 'intercede' 'mediate' 'arbitrate'],"[['intermediate' '1']
+ ['mediate' '407']]",['intermediate' 'mediate']
+439,439,interpret,"['see' 'construe' 'rede' 'read' 'translate' 'render' 'represent'
+ 'interpret' 'understand']",[['interpret' '41']],['interpret']
+440,440,question,"['interrogate' 'wonder' 'call_into_question' 'marvel' 'enquire' 'query'
+ 'oppugn' 'inquire' 'interview' 'question']","[['interrogate' '8']
+ ['question' '10']
+ ['wonder' '2']]",['interrogate' 'question' 'wonder']
+441,441,intersperse,['interlard' 'intersperse'],[['intersperse' '1']],['intersperse']
+442,442,interview,['interview' 'question'],[['interview' '17']],['interview']
+443,443,intubate,['intubate' 'cannulate' 'cannulize' 'cannulise' 'canulate'],[['intubate' '6']],['intubate']
+444,444,invade,"['invade' 'intrude_on' 'overrun' 'encroach_upon' 'obtrude_upon' 'occupy'
+ 'infest']",[['invade' '1']],['invade']
+445,445,invert,['turn_back' 'invert' 'reverse'],[['invert' '2']],['invert']
+446,446,investigate,['investigate' 'inquire' 'enquire' 'look_into'],[['investigate' '596']],['investigate']
+447,447,invite,"['call_for' 'bid' 'ask_round' 'invite' 'ask_over' 'tempt' 'take_in'
+ 'ask_for' 'receive' 'ask_in' 'pay_for']",[['invite' '39']],['invite']
+448,448,irradiate,['enlighten' 'ray' 'irradiate'],[['irradiate' '1']],['irradiate']
+449,449,isolate,['insulate' 'isolate' 'sequester' 'set_apart' 'sequestrate' 'keep_apart'],[['isolate' '79']],['isolate']
+450,450,itch,['itch' 'spoil' 'scratch' 'rub'],[['itch' '6']],['itch']
+451,451,jar,['bump_around' 'jolt' 'clash' 'jar' 'collide' 'shake_up'],[['jar' '1']],['jar']
+452,452,threaten,"['peril' 'menace' 'imperil' 'adventure' 'jeopardize' 'hazard' 'endanger'
+ 'threaten' 'stake' 'venture' 'jeopardise']","[['jeopardize' '2']
+ ['threaten' '99']]",['jeopardize' 'threaten']
+453,453,justify,"['justify' 'excuse' 'apologise' 'apologize' 'rationalize' 'warrant'
+ 'absolve' 'vindicate' 'rationalise' 'free']",[['justify' '12']],['justify']
+454,454,kill,"['defeat' 'obliterate' 'shoot_down' 'pop' 'pour_down' 'vote_out'
+ 'wipe_out' 'bolt_down' 'drink_down' 'stamp_out' 'kill' 'belt_down' 'down'
+ 'vote_down' 'toss_off']",[['kill' '30']],['kill']
+455,455,lack,['miss' 'lack'],[['lack' '156']],['lack']
+456,456,laud,['proclaim' 'glorify' 'laud' 'exalt' 'extol'],[['laud' '1']],['laud']
+457,457,lay,"['lie' 'put_down' 'lie_in' 'put' 'dwell' 'pose' 'set' 'rest' 'consist'
+ 'lay' 'repose' 'lie_down' 'place' 'position']","[['lay' '21']
+ ['lie' '3']]",['lay' 'lie']
+458,458,layer,['layer'],[['layer' '1']],['layer']
+459,459,leverage,['leverage'],[['leverage' '14']],['leverage']
+460,460,linger,"['lallygag' 'loaf' 'linger' 'lurk' 'lounge' 'hang_around' 'dawdle'
+ 'mill_about' 'mill_around' 'tarry' 'mess_about' 'footle' 'hover'
+ 'lollygag' 'loiter']",[['linger' '3']],['linger']
+461,461,list,['name' 'list' 'number' 'lean' 'heel'],[['list' '26']],['list']
+462,462,localize,['localize' 'focalise' 'set' 'localise' 'place' 'focalize'],"[['localise' '5']
+ ['localize' '20']]",['localise' 'localize']
+463,463,locate,['locate' 'settle' 'situate' 'turn_up' 'site' 'place'],[['locate' '27']],['locate']
+464,464,log,['log' 'lumber'],[['log' '2']],['log']
+465,465,long,['hanker' 'yearn' 'long'],[['long' '1']],['long']
+466,466,relax,"['release' 'decompress' 'loosen_up' 'make_relaxed' 'slack' 'undo'
+ 'unstrain' 'loose' 'free' 'slack_up' 'unlax' 'untie' 'unleash' 'relax'
+ 'liberate' 'slacken' 'unbend' 'let_loose' 'loosen' 'tease_apart' 'unwind'
+ 'unloosen' 'slow_down' 'tease' 'unloose']","[['loose' '1']
+ ['loosen' '1']
+ ['relax' '5']]",['loose' 'loosen' 'relax']
+467,467,lose,"['mislay' 'fall_behind' 'misplace' 'suffer' 'turn_a_loss' 'fall_back'
+ 'recede' 'miss' 'lose' 'drop_off']",[['lose' '35']],['lose']
+468,468,low,['moo' 'low'],[['low' '2']],['low']
+469,469,lower,"['lour' 'get_down' 'glower' 'let_down' 'bring_down' 'lower' 'take_down'
+ 'depress' 'turn_down' 'frown']",[['lower' '38']],['lower']
+470,470,lubricate,['lube' 'lubricate'],[['lubricate' '1']],['lubricate']
+471,471,lyophilise,['lyophilise' 'lyophilize'],"[['lyophilise' '5']
+ ['lyophilize' '2']]",['lyophilise' 'lyophilize']
+472,472,mail,['post' 'get_off' 'mail' 'send'],[['mail' '5']],['mail']
+473,473,man,['man'],[['man' '1']],['man']
+474,474,mandate,['mandate'],[['mandate' '9']],['mandate']
+475,475,map,['map_out' 'represent' 'map'],[['map' '12']],['map']
+476,476,marry,"['get_hitched_with' 'wed' 'marry' 'espouse' 'splice' 'get_married'
+ 'hook_up_with' 'tie' 'conjoin']",[['marry' '2']],['marry']
+477,477,mask,['mask' 'cloak' 'disguise' 'block_out' 'dissemble'],[['mask' '71']],['mask']
+478,478,masquerade,['masquerade'],[['masquerade' '1']],['masquerade']
+479,479,maximize,['maximize' 'maximise'],"[['maximise' '1']
+ ['maximize' '30']]",['maximise' 'maximize']
+480,480,mentor,['mentor'],[['mentor' '1']],['mentor']
+481,481,message,['message'],[['message' '3']],['message']
+482,482,mimic,['mime' 'mimic'],[['mimic' '6']],['mimic']
+483,483,mine,['mine'],[['mine' '2']],['mine']
+484,484,minimize,"['downplay' 'minimise' 'minimize' 'denigrate' 'understate' 'derogate'
+ 'belittle']","[['minimise' '12']
+ ['minimize' '33']
+ ['understate' '2']]",['minimise' 'minimize' 'understate']
+485,485,mirror,['mirror'],[['mirror' '8']],['mirror']
+486,486,misdirect,"['bring_down' 'demoralise' 'pervert' 'weaken' 'undermine' 'misaddress'
+ 'profane' 'misguide' 'debase' 'overthrow' 'overturn' 'lead_astray'
+ 'vitiate' 'sabotage' 'deprave' 'debauch' 'countermine' 'demoralize'
+ 'misdirect' 'counteract' 'subvert' 'mislead' 'corrupt']","[['misdirect' '1']
+ ['subvert' '1']]",['misdirect' 'subvert']
+487,487,misinterpret,"['misinterpret' 'misread' 'be_amiss' 'misapprehend' 'misconstrue'
+ 'misunderstand' 'misconceive']",[['misinterpret' '1']],['misinterpret']
+488,488,mismatch,['mismatch'],[['mismatch' '12']],['mismatch']
+489,489,mistake,['slip' 'err' 'misidentify' 'mistake'],[['mistake' '1']],['mistake']
+490,490,model,"['posture' 'pattern' 'simulate' 'pose' 'mold' 'mock_up' 'sit' 'mould'
+ 'model']",[['model' '37']],['model']
+491,491,modulate,['regulate' 'inflect' 'tone' 'modulate'],[['modulate' '28']],['modulate']
+492,492,monitor,['supervise' 'monitor'],[['monitor' '277']],['monitor']
+493,493,mount,"['rise' 'wax' 'bestride' 'climb_up' 'put_on' 'mount_up' 'climb' 'hop_on'
+ 'jump_on' 'go_up' 'mount' 'climb_on' 'get_on' 'ride']",[['mount' '69']],['mount']
+494,494,mouse,['mouse' 'sneak' 'creep' 'pussyfoot'],[['mouse' '1']],['mouse']
+495,495,mutate,['mutate'],[['mutate' '33']],['mutate']
+496,496,nab,['nab' 'nail' 'pick_up' 'arrest' 'apprehend' 'collar' 'cop'],[['nab' '2']],['nab']
+497,497,navigate,['voyage' 'pilot' 'sail' 'navigate'],[['navigate' '1']],['navigate']
+498,498,nest,['nestle' 'nuzzle' 'snuggle' 'cuddle' 'nest' 'draw_close'],[['nest' '30']],['nest']
+499,499,neutralize,"['waste' 'negate' 'do_in' 'counteract' 'knock_off' 'neutralise'
+ 'liquidate' 'countervail' 'neutralize' 'nullify' 'counterbalance']","[['neutralise' '234']
+ ['neutralize' '1511']]",['neutralise' 'neutralize']
+500,500,nod,['nod'],[['nod' '2']],['nod']
+501,501,normalize,['normalize' 'anneal' 'renormalise' 'temper' 'renormalize' 'normalise'],"[['normalise' '4']
+ ['normalize' '11']]",['normalise' 'normalize']
+502,502,notch,['notch'],[['notch' '1']],['notch']
+503,503,object,['object'],[['object' '1']],['object']
+504,504,objectify,"['externalize' 'depersonalise' 'exteriorise' 'exteriorize' 'depersonalize'
+ 'externalise' 'objectify']",[['objectify' '1']],['objectify']
+505,505,optimize,['optimise' 'optimize'],"[['optimise' '6']
+ ['optimize' '75']]",['optimise' 'optimize']
+506,506,orient,['point' 'tailor' 'orientate' 'orient'],[['orient' '7']],['orient']
+507,507,orphan,['orphan'],[['orphan' '2']],['orphan']
+508,508,oscillate,['vacillate' 'hover' 'oscillate' 'vibrate'],[['oscillate' '1']],['oscillate']
+509,509,outnumber,['outnumber'],[['outnumber' '1']],['outnumber']
+510,510,outpace,['outpace'],[['outpace' '1']],['outpace']
+511,511,outweigh,['outweigh' 'overbalance' 'outbalance' 'preponderate'],[['outweigh' '40']],['outweigh']
+512,512,overburden,['overburden'],[['overburden' '1']],['overburden']
+513,513,overemphasize,['overstress' 'overemphasise' 'overemphasize'],[['overemphasize' '1']],['overemphasize']
+514,514,overestimate,['overrate' 'overestimate' 'overvalue'],[['overestimate' '9']],['overestimate']
+515,515,overlap,['overlap'],[['overlap' '43']],['overlap']
+516,516,overload,['overload' 'clog' 'overcharge' 'surcharge'],[['overload' '1']],['overload']
+517,517,ovulate,['ovulate'],[['ovulate' '1']],['ovulate']
+518,518,owe,['owe'],[['owe' '21']],['owe']
+519,519,possess,['own' 'possess' 'have'],"[['own' '7']
+ ['possess' '13']]",['own' 'possess']
+520,520,pain,['anguish' 'trouble' 'pain' 'hurt' 'ail'],[['pain' '6']],['pain']
+521,521,partition,['partition' 'zone' 'partition_off'],[['partition' '5']],['partition']
+522,522,partner,['partner'],[['partner' '2']],['partner']
+523,523,pave,['pave'],[['pave' '4']],['pave']
+524,524,peak,['peak' 'top_out'],[['peak' '89']],['peak']
+525,525,penalize,['penalize' 'punish' 'penalise'],[['penalize' '3']],['penalize']
+526,526,perpetuate,['perpetuate'],[['perpetuate' '2']],['perpetuate']
+527,527,personalize,['individualise' 'individualize' 'personalize' 'personalise'],[['personalize' '17']],['personalize']
+528,528,phase,['phase'],[['phase' '6']],['phase']
+529,529,pigment,['pigment'],[['pigment' '1']],['pigment']
+530,530,pinpoint,['nail' 'pinpoint'],[['pinpoint' '1']],['pinpoint']
+531,531,plague,"['molest' 'chivy' 'blight' 'hassle' 'harry' 'beset' 'chevvy' 'plague'
+ 'provoke' 'chivvy' 'chevy' 'harass']",[['plague' '1']],['plague']
+532,532,plate,['plate'],[['plate' '1']],['plate']
+533,533,plot,['plot' 'diagram' 'plat'],[['plot' '6']],['plot']
+534,534,polarize,['polarise' 'polarize'],[['polarize' '2']],['polarize']
+535,535,pool,['pool'],[['pool' '191']],['pool']
+536,536,potentiate,['potentiate'],[['potentiate' '2']],['potentiate']
+537,537,power,['power'],[['power' '4']],['power']
+538,538,prevent,"['rule_out' 'foreclose' 'close_out' 'keep' 'prevent' 'forbid' 'preclude'
+ 'forestall']","[['preclude' '4']
+ ['prevent' '574']]",['preclude' 'prevent']
+539,539,precondition,['precondition'],[['precondition' '1']],['precondition']
+540,540,predicate,['proclaim' 'predicate' 'connote'],[['predicate' '1']],['predicate']
+541,541,predispose,['predispose'],[['predispose' '40']],['predispose']
+542,542,preexist,['preexist'],[['preexist' '41']],['preexist']
+543,543,prefabricate,['prefabricate' 'preassemble'],[['prefabricate' '1']],['prefabricate']
+544,544,preview,['preview'],[['preview' '1']],['preview']
+545,545,prim,['prim' 'prim_out' 'prim_up'],[['prim' '145']],['prim']
+546,546,prime,['prime' 'undercoat' 'ground'],[['prime' '1']],['prime']
+547,547,print,['print' 'publish' 'impress'],[['print' '13']],['print']
+548,548,prioritize,['prioritize' 'prioritise'],"[['prioritise' '40']
+ ['prioritize' '143']]",['prioritise' 'prioritize']
+549,549,process,"['serve' 'work_on' 'work' 'march' 'process' 'treat' 'swear_out' 'action'
+ 'litigate' 'sue']",[['process' '12']],['process']
+550,550,procure,['pander' 'procure' 'secure' 'pimp'],[['procure' '1']],['procure']
+551,551,profile,['profile'],[['profile' '42']],['profile']
+552,552,program,['program' 'programme'],[['program' '2']],['program']
+553,553,proliferate,['proliferate'],[['proliferate' '9']],['proliferate']
+554,554,protect,['protect'],[['protect' '423']],['protect']
+555,555,pulse,['pulse' 'pulsate' 'throb'],[['pulse' '7']],['pulse']
+556,556,pump,['pump'],[['pump' '1']],['pump']
+557,557,purchase,['purchase' 'buy'],[['purchase' '6']],['purchase']
+558,558,purify,['make_pure' 'sublimate' 'distill' 'purge' 'sanctify' 'purify'],[['purify' '22']],['purify']
+559,559,quadruple,['quadruple'],[['quadruple' '1']],['quadruple']
+560,560,quantize,['quantize' 'quantise'],[['quantize' '1']],['quantize']
+561,561,quarantine,['quarantine'],[['quarantine' '9']],['quarantine']
+562,562,query,['query' 'question'],[['query' '11']],['query']
+563,563,randomize,['randomize' 'randomise'],"[['randomise' '101']
+ ['randomize' '262']]",['randomise' 'randomize']
+564,564,rat,"['betray' 'stag' 'rat' 'sleuth' 'spy' 'tell_on' 'give_away' 'grass'
+ 'denounce' 'blackleg' 'snitch' 'scab' 'fink' 'shop' 'snoop' 'shit']","[['rat' '9']
+ ['stag' '3']]",['rat' 'stag']
+565,565,ration,['ration' 'ration_out'],[['ration' '1']],['ration']
+566,566,reactivate,['reactivate'],[['reactivate' '4']],['reactivate']
+567,567,reaffirm,['reaffirm'],[['reaffirm' '3']],['reaffirm']
+568,568,reappear,['reappear' 're-emerge'],[['reappear' '2']],['reappear']
+569,569,reassess,['reevaluate' 'reassess'],"[['reassess' '3']
+ ['reevaluate' '2']]",['reassess' 'reevaluate']
+570,570,retrieve,"['guess' 'come_back' 'reckon' 'withdraw' 'recover' 'mean' 'intend'
+ 'conceive' 'opine' 'retrieve' 'think' 'consider' 'imagine' 'return'
+ 'find' 'echo' 'hark_back' 'cogitate' 'call_back' 'remember' 'regain'
+ 'call_up' 'recollect' 'call_in' 'believe' 'suppose' 'recall' 'cerebrate']","[['recall' '35']
+ ['retrieve' '42']
+ ['think' '28']]",['recall' 'retrieve' 'think']
+571,571,recapitulate,['reprize' 'recapitulate' 'repeat' 'recap' 'reprise'],[['recapitulate' '8']],['recapitulate']
+572,572,recombine,['recombine'],[['recombine' '1']],['recombine']
+573,573,reconsider,['reconsider'],[['reconsider' '1']],['reconsider']
+574,574,reconstitute,['restructure' 'reconstitute'],[['reconstitute' '2']],['reconstitute']
+575,575,recur,['repeat' 'fall_back' 'go_back' 'recur' 'resort'],[['recur' '8']],['recur']
+576,576,redefine,['redefine'],[['redefine' '3']],['redefine']
+577,577,redeploy,['redeploy'],[['redeploy' '2']],['redeploy']
+578,578,redesign,['redesign'],[['redesign' '1']],['redesign']
+579,579,redevelop,['redevelop' 'reformulate'],[['redevelop' '1']],['redevelop']
+580,580,redirect,['redirect' 'airt'],[['redirect' '6']],['redirect']
+581,581,redistribute,['redistribute'],[['redistribute' '1']],['redistribute']
+582,582,redo,"['remake' 'make_over' 'reconstruct' 'remodel' 'reforge' 'recast'
+ 'refashion' 'redo']","[['redo' '1']
+ ['remodel' '1']]",['redo' 'remodel']
+583,583,redouble,['redouble'],[['redouble' '2']],['redouble']
+584,584,reflect,"['hypothesise' 'theorise' 'ponder' 'ruminate' 'contemplate' 'reflect'
+ 'hypothesize' 'muse' 'job' 'shine' 'mull' 'theorize' 'hypothecate'
+ 'reverberate' 'speculate' 'conjecture' 'meditate' 'think_over'
+ 'excogitate' 'mull_over' 'suppose' 'chew_over']","[['reflect' '97']
+ ['speculate' '18']]",['reflect' 'speculate']
+585,585,reform,"['regenerate' 'reform' 'reclaim' 'straighten_out' 'rectify'
+ 'see_the_light']",[['reform' '1']],['reform']
+586,586,relapse,"['return' 'fall_back' 'retrogress' 'retrovert' 'regress' 'recidivate'
+ 'get_worse' 'turn_back' 'relapse' 'retrograde' 'revert' 'lapse']","[['regress' '2']
+ ['relapse' '37']]",['regress' 'relapse']
+587,587,reignite,['reignite'],[['reignite' '1']],['reignite']
+588,588,reimburse,['recoup' 'reimburse'],[['reimburse' '2']],['reimburse']
+589,589,reinforce,['reward' 'reenforce' 'reinforce'],[['reinforce' '20']],['reinforce']
+590,590,repeat,"['restate' 'reduplicate' 'recapitulate' 'ingeminate' 'reprise' 'retell'
+ 'iterate' 'echo' 'duplicate' 'replicate' 'repeat' 'reprize' 'recur'
+ 'take_over' 'double' 'reiterate']","[['reiterate' '3']
+ ['repeat' '88']]",['reiterate' 'repeat']
+591,591,rejuvenate,['regenerate' 'restore' 'rejuvenate'],[['rejuvenate' '1']],['rejuvenate']
+592,592,renew,['regenerate' 'reincarnate' 'renew'],[['renew' '4']],['renew']
+593,593,reopen,['reopen'],[['reopen' '7']],['reopen']
+594,594,replace,"['sub' 'put_back' 'supersede' 'interchange' 'substitute' 'supercede'
+ 'deputize' 'stand_in' 'replace' 'supplant' 'exchange' 'deputise'
+ 'fill_in' 'step_in' 'supervene_upon']","[['replace' '18']
+ ['substitute' '2']
+ ['supersede' '1']
+ ['supplant' '3']]",['replace' 'substitute' 'supersede' 'supplant']
+595,595,reposition,['dislodge' 'shift' 'reposition'],[['reposition' '1']],['reposition']
+596,596,reprieve,['respite' 'reprieve'],[['reprieve' '1']],['reprieve']
+597,597,reproduce,['regurgitate' 'multiply' 'procreate' 'reproduce'],[['reproduce' '4']],['reproduce']
+598,598,request,['bespeak' 'call_for' 'quest' 'request'],[['request' '7']],['request']
+599,599,resect,['resect' 'eviscerate'],[['resect' '7']],['resect']
+600,600,resemble,['resemble'],[['resemble' '12']],['resemble']
+601,601,resume,['take_up' 'restart' 'summarise' 'summarize' 're-start' 'sum_up' 'resume'],"[['restart' '3']
+ ['resume' '6']]",['restart' 'resume']
+602,602,resurge,['resurge'],[['resurge' '4']],['resurge']
+603,603,resuspend,['resuspend'],[['resuspend' '1']],['resuspend']
+604,604,vomit,"['upchuck' 'heave' 'barf' 'sick' 'throw_up' 'honk' 'vomit_up' 'regorge'
+ 'gag' 'retch' 'purge' 'cast' 'disgorge' 'be_sick' 'cat' 'spue' 'spew'
+ 'puke' 'regurgitate' 'vomit' 'chuck']","[['retch' '2']
+ ['vomit' '21']]",['retch' 'vomit']
+605,605,review,"['retrospect' 'survey' 'brush_up' 'reexamine' 'critique' 'look_back'
+ 'go_over' 'refresh' 'review']",[['review' '183']],['review']
+606,606,revise,['revise' 'retool'],[['revise' '11']],['revise']
+607,607,ripple,"['undulate' 'babble' 'burble' 'riffle' 'bubble' 'cockle' 'ripple' 'ruffle'
+ 'gurgle' 'guggle']",[['ripple' '1']],['ripple']
+608,608,risk,"['put_on_the_line' 'run_a_risk' 'lay_on_the_line' 'gamble' 'take_chances'
+ 'risk' 'hazard' 'take_a_chance' 'chance' 'adventure']",[['risk' '20']],['risk']
+609,609,round,"['flesh_out' 'snipe' 'polish' 'labialise' 'attack' 'round_down'
+ 'round_out' 'lash_out' 'assault' 'round' 'round_off' 'assail' 'fill_out'
+ 'polish_up' 'labialize' 'brush_up']",[['round' '4']],['round']
+610,610,rout,"['spread-eagle' 'spreadeagle' 'expel' 'rout' 'root' 'gouge' 'rout_out'
+ 'rootle']",[['rout' '1']],['rout']
+611,611,route,['route'],[['route' '4']],['route']
+612,612,sample,['taste' 'try_out' 'sample' 'try'],[['sample' '78']],['sample']
+613,613,sanitize,['sanitize' 'hygienize' 'hygienise' 'sanitise'],[['sanitize' '1']],['sanitize']
+614,614,see,"['project' 'witness' 'catch' 'run_across' 'visualize' 'check' 'reckon'
+ 'examine' 'determine' 'pick_up' 'get_a_line' 'saw' 'envision' 'look_at'
+ 'picture' 'understand' 'discover' 'encounter' 'find_out' 'take_in'
+ 'take_care' 'come_across' 'insure' 'visualise' 'watch' 'hear' 'consider'
+ 'ensure' 'image' 'go_through' 'see_to_it' 'date' 'find' 'interpret'
+ 'go_steady' 'ascertain' 'visit' 'fancy' 'realise' 'attend' 'look'
+ 'construe' 'meet' 'get_wind' 'escort' 'go_out' 'view' 'realize' 'control'
+ 'run_into' 'regard' 'assure' 'get_word' 'experience' 'see' 'figure'
+ 'learn']","[['saw' '8']
+ ['see' '461']
+ ['view' '10']]",['saw' 'see' 'view']
+615,615,scale,['descale' 'scale' 'surmount'],[['scale' '5']],['scale']
+616,616,schedule,['schedule'],[['schedule' '39']],['schedule']
+617,617,scheme,['scheme' 'intrigue' 'connive'],[['scheme' '1']],['scheme']
+618,618,screen,['shield' 'test' 'sieve' 'screen_out' 'screen' 'block_out' 'sort' 'riddle'],[['screen' '320']],['screen']
+619,619,scribe,['scribe'],[['scribe' '1']],['scribe']
+620,620,seal,['varnish' 'seal_off' 'seal'],[['seal' '1']],['seal']
+621,621,sow,['seed' 'inseminate' 'sow_in' 'sow'],"[['seed' '5']
+ ['sow' '13']]",['seed' 'sow']
+622,622,segregate,['segregate'],[['segregate' '1']],['segregate']
+623,623,sensitize,['sensibilise' 'sensify' 'sensitize' 'sensibilize' 'sensitise'],[['sensitize' '8']],['sensitize']
+624,624,sequence,['sequence'],[['sequence' '176']],['sequence']
+625,625,shake,"['agitate' 'stir' 'escape_from' 'sway' 'shake' 'shake_off' 'throw_off'
+ 'stimulate' 'excite' 'didder' 'rock' 'judder' 'shake_up']",[['shake' '1']],['shake']
+626,626,shiver,['thrill' 'throb' 'shudder' 'shiver'],[['shiver' '3']],['shiver']
+627,627,shortlist,['shortlist'],[['shortlist' '1']],['shortlist']
+628,628,side,['side'],[['side' '10']],['side']
+629,629,silence,['shut_up' 'silence' 'quieten' 'hush_up' 'still' 'hush'],[['silence' '1']],['silence']
+630,630,simplify,['simplify'],[['simplify' '3']],['simplify']
+631,631,skew,['skew'],[['skew' '7']],['skew']
+632,632,slap,['slap'],[['slap' '1']],['slap']
+633,633,slaughter,['massacre' 'slaughter' 'butcher' 'mow_down'],[['slaughter' '5']],['slaughter']
+634,634,sleep,"['kip' '""log_Zs""' '""catch_some_Zs""' 'sleep' 'slumber']",[['sleep' '5']],['sleep']
+635,635,slow,['slow_down' 'decelerate' 'slack' 'slow_up' 'slacken' 'slow' 'retard'],[['slow' '19']],['slow']
+636,636,smoke,['fume' 'smoke'],[['smoke' '40']],['smoke']
+637,637,smolder,['smolder' 'smoulder'],"[['smolder' '5']
+ ['smoulder' '3']]",['smolder' 'smoulder']
+638,638,smooth,['polish' 'shine' 'smooth' 'smooth_out' 'smoothen'],[['smooth' '1']],['smooth']
+639,639,sneeze,['sneeze'],[['sneeze' '4']],['sneeze']
+640,640,surge,"['soar_upwards' 'scend' 'heave' 'soar_up' 'hang_glide' 'zoom' 'sailplane'
+ 'tide' 'billow' 'surge' 'soar']","[['soar' '1']
+ ['surge' '10']
+ ['tide' '1']]",['soar' 'surge' 'tide']
+641,641,solicit,['woo' 'hook' 'solicit' 'court' 'romance' 'accost' 'tap' 'beg'],[['solicit' '87']],['solicit']
+642,642,solidify,['solidify'],[['solidify' '3']],['solidify']
+643,643,source,['source'],[['source' '12']],['source']
+644,644,space,['space'],[['space' '21']],['space']
+645,645,spar,['spar'],[['spar' '14']],['spar']
+646,646,speckle,['bespeckle' 'speckle' 'stipple'],[['speckle' '1']],['speckle']
+647,647,sponsor,['shop_at' 'shop' 'patronize' 'patronise' 'frequent' 'sponsor' 'buy_at'],[['sponsor' '19']],['sponsor']
+648,648,sporulate,['sporulate'],[['sporulate' '2']],['sporulate']
+649,649,spur,['goad' 'spur'],[['spur' '1']],['spur']
+650,650,square,['square_up' 'square' 'feather'],[['square' '10']],['square']
+651,651,stabilize,['steady' 'brace' 'stabilize' 'stabilise'],"[['stabilise' '9']
+ ['stabilize' '62']]",['stabilise' 'stabilize']
+652,652,staff,['staff'],[['staff' '5']],['staff']
+653,653,stagnate,['laze' 'stagnate' 'slug' 'idle'],[['stagnate' '3']],['stagnate']
+654,654,stain,['defile' 'sully' 'maculate' 'stain' 'tarnish'],[['stain' '20']],['stain']
+655,655,standardize,['standardise' 'standardize'],"[['standardise' '22']
+ ['standardize' '42']]",['standardise' 'standardize']
+656,656,step,['maltreat' 'ill-treat' 'tread' 'step' 'pace' 'mistreat' 'ill-use' 'abuse'],[['step' '2']],['step']
+657,657,store,"['stash_away' 'hive_away' 'store' 'salt_away' 'stack_away' 'put_in'
+ 'lay_in']",[['store' '27']],['store']
+658,658,strand,['maroon' 'ground' 'run_aground' 'strand'],[['strand' '4']],['strand']
+659,659,stratify,['stratify'],[['stratify' '138']],['stratify']
+660,660,streamline,['streamline'],[['streamline' '2']],['streamline']
+661,661,strengthen,['strengthen' 'beef_up' 'tone' 'tone_up' 'fortify'],[['strengthen' '20']],['strengthen']
+662,662,structure,['structure'],[['structure' '13']],['structure']
+663,663,stunt,['stunt'],[['stunt' '2']],['stunt']
+664,664,subdivide,['subdivide'],[['subdivide' '3']],['subdivide']
+665,665,subject,['subjugate' 'submit' 'subject'],[['subject' '34']],['subject']
+666,666,subtract,['subtract' 'take_off' 'deduct'],[['subtract' '2']],['subtract']
+667,667,succumb,['yield' 'knuckle_under' 'buckle_under' 'give_in' 'succumb'],[['succumb' '12']],['succumb']
+668,668,superimpose,['superpose' 'lay_over' 'superimpose'],[['superimpose' '2']],['superimpose']
+669,669,surprise,['storm' 'surprise'],[['surprise' '1']],['surprise']
+670,670,suspect,['suspect' 'distrust' 'mistrust' 'surmise'],[['suspect' '172']],['suspect']
+671,671,swab,['swob' 'swab' 'dab'],[['swab' '10']],['swab']
+672,672,sweat,['sweat' 'perspire' 'sudate'],[['sweat' '4']],['sweat']
+673,673,swell,"['tumefy' 'swell' 'tumesce' 'swell_up' 'puff_up' 'well' 'intumesce'
+ 'well_up']",[['swell' '60']],['swell']
+674,674,synchronize,['contemporise' 'synchronize' 'synchronise' 'sync' 'contemporize'],[['synchronize' '3']],['synchronize']
+675,675,synthesize,['synthesise' 'synthesize'],"[['synthesise' '2']
+ ['synthesize' '9']]",['synthesise' 'synthesize']
+676,676,term,['term'],[['term' '24']],['term']
+677,677,tether,['tether'],[['tether' '3']],['tether']
+678,678,thaw,['unfreeze' 'unthaw' 'melt' 'dissolve' 'dethaw' 'thaw'],[['thaw' '5']],['thaw']
+679,679,thicken,['thicken' 'inspissate'],[['thicken' '1']],['thicken']
+680,680,tile,['tile'],[['tile' '1']],['tile']
+681,681,time,['clock' 'time'],[['time' '41']],['time']
+682,682,tingle,['tingle' 'prickle'],[['tingle' '1']],['tingle']
+683,683,titrate,['titrate'],[['titrate' '6']],['titrate']
+684,684,tool,['tool_around' 'tool' 'joyride'],[['tool' '1']],['tool']
+685,685,traffic,['traffic'],[['traffic' '3']],['traffic']
+686,686,transduce,['transduce'],[['transduce' '2']],['transduce']
+687,687,transform,['transform' 'metamorphose' 'translate' 'transubstantiate' 'transmute'],[['transform' '8']],['transform']
+688,688,transition,['transition'],[['transition' '4']],['transition']
+689,689,triple,['triple' 'treble'],[['triple' '2']],['triple']
+690,690,triplicate,['triplicate'],[['triplicate' '1']],['triplicate']
+691,691,truncate,['cut_short' 'truncate'],[['truncate' '6']],['truncate']
+692,692,tune,['tune' 'tune_up'],[['tune' '7']],['tune']
+693,693,type,['typecast' 'type' 'typewrite'],[['type' '10']],['type']
+694,694,underestimate,['undervalue' 'underestimate' 'lowball' 'underrate'],[['underestimate' '15']],['underestimate']
+695,695,undergo,['undergo'],[['undergo' '172']],['undergo']
+696,696,underlie,['underlie'],[['underlie' '242']],['underlie']
+697,697,underperform,['underperform' 'underachieve'],[['underperform' '1']],['underperform']
+698,698,unmask,['unmask' 'uncloak'],[['unmask' '1']],['unmask']
+699,699,update,['update'],[['update' '71']],['update']
+700,700,upstage,['upstage'],[['upstage' '2']],['upstage']
+701,701,ventilate,['give_vent' 'ventilate' 'vent' 'air' 'air_out'],[['ventilate' '5']],['ventilate']
+702,702,verse,['poetize' 'versify' 'verse' 'poetise'],[['verse' '1']],['verse']
+703,703,vet,['vet'],[['vet' '1']],['vet']
+704,704,vote,['vote'],[['vote' '1']],['vote']
+705,705,walk,['take_the_air' 'walk'],[['walk' '2']],['walk']
+706,706,wan,['wan'],[['wan' '289']],['wan']
+707,707,wean,['wean' 'ablactate'],[['wean' '7']],['wean']
+708,708,weaponize,['weaponize'],[['weaponize' '1']],['weaponize']
+709,709,web,['web' 'net'],[['web' '2']],['web']
+710,710,welt,['whip' 'trounce' 'welt' 'flog' 'lash' 'slash' 'strap' 'lather'],[['welt' '1']],['welt']
+711,711,wheeze,['wheeze'],[['wheeze' '8']],['wheeze']
+712,712,whoop,['hack' 'whoop'],[['whoop' '1']],['whoop']
+713,713,withhold,['keep_back' 'recoup' 'deduct' 'withhold'],[['withhold' '4']],['withhold']
+714,714,worship,['worship' 'revere' 'idolize' 'hero-worship' 'idolise'],[['worship' '1']],['worship']
+715,715,yellow,['yellow'],[['yellow' '1']],['yellow']
+716,716,zero,['zero_in' 'zero'],[['zero' '1']],['zero']
