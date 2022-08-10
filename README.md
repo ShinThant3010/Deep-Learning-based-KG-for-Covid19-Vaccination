@@ -10,8 +10,7 @@ The research is about construction of content-based knowledge graph using the up
 - Dataset for NER: [CORD-NER](https://xuanwang91.github.io/2020-03-20-cord19-ner/)
 
 ### Methodology
-- Dataset Preparation: Latent Dirichlet Allocation (LDA) to focus on vaccine specific information
-- Named Entity Recognition (NER): BERT
-- Relation Extraction: Verb Phrase Extraction
-- Relation Clustering: Synset Grouping
-- Triple Construction: using extracted entities and relations
+1. <b>Dataset Preparation:</b> Latent Dirichlet Allocation (LDA) to focus on vaccine specific information
+2. Named Entity Recognition (NER): BERT
+3. Relation Extraction: Verb Phrase Extraction and Relation Clustering: Synset Grouping
+4. Triple Construction: using extracted entities and relations and Analysis: 
