@@ -1,4 +1,4 @@
-# Deep-Learning-based-KG-Construction-for-Covid19-Vaccination
+## Deep-Learning-based-KG-Construction-for-Covid19-Vaccination
 
 Master's Research work and NII Internship Research supervised by Dr. Chutiporn Anutariya (Asian Institute of Technology, Thailand), Prof. Frederic Andreas (National Institute of Informatics, Japan), and Dr. Teeradaj Racharak (Japan Advanced Institute of Science and Technology (JAIST)).
 
