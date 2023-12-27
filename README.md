@@ -12,6 +12,6 @@ The research is about construction of content-based knowledge graph using the up
 
 ### Methodology
 1. <b>Dataset Preparation:</b> Latent Dirichlet Allocation (LDA) to focus on vaccine specific information
-2. <b>Named Entity Recognition (NER):</b> fine-tuning DistilBERT
+2. <b>Named Entity Recognition (NER):</b> fine-tuning DistilBERT [Fine-tuned Dataset: https://dx.doi.org/10.21227/m7gj-ks21]
 3. <b>Relation Extraction:</b> Verb Phrase Extraction, <b>Relation Clustering:</b> Synset Grouping (using Synset information from WordNet Database)
 4. <b>Triple Construction:</b> using extracted entities and relations and <b>Analysis:</b> Entity type-based, Relation-based
